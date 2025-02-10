@@ -19,7 +19,7 @@ redirect_from:
 
 I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics rutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area.
 
-My research interest includes medical radiation physics. I have published papers at the top journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes medical radiation physics. I have published papers at the top journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -47,11 +47,10 @@ My research interest includes medical radiation physics. I have published papers
   - STEP, MAT  
   - Chinese Physics Olympiad  
 - *2017.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
-  *Undergraduate Research Assistant*  
+  *Undergraduate Research Assistant* , [Lab Website]([http://qsqm.hust.edu.cn/People/Alumni.htm](https://www.iqsqm.com/list_21/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
   - Quantum geometry measurement  
-  - [Lab Website](http://qsqm.hust.edu.cn/People/Alumni.htm)  
 
 # 📝 Publications 
 
