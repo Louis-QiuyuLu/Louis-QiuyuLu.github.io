@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">文心雕龙</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">文心雕龍-神思</div>
 <img src='images/wenxindiaolong-shensi.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
