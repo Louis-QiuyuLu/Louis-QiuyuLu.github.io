@@ -12,7 +12,7 @@ redirect_from:
 
 
 <div>
-    <div class="badge">文心雕龍-神思</div>
+    <div class="badge">The Literary Mind and the Carving of Dragons by Liu Xie.</div>
     <img src='images/wenxindiaolong-shensi.png' alt="sym" width="60%">
 </div>
 
