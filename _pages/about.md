@@ -22,7 +22,7 @@ I am now pursuing a master's degree in medical physics at UoW. During my undergr
 My research interest includes medical radiation physics. I have published papers at the top journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 📄 **My CV:**  
-(https://Louis-QiuyuLu.github.io/docs/QiuyuLu-CV-2025.2.pdf)  
+[CV](https://Louis-QiuyuLu.github.io/docs/QiuyuLu-CV-2025.2.pdf)  
 
 # 🔥 News
 - *2025.03*: Start second semister of master's study.
