@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍🔬 About me
 I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area.
 
-My research interest includes medical radiation physics. <a href="https://scholar.google.com/citations?user=UzdY2DMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?logo=Google%20Scholar"></a>
+My research interest includes medical radiation physics.<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.2.pdf)  
 
