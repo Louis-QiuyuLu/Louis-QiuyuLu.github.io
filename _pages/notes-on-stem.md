@@ -11,10 +11,10 @@ author_profile: false
 This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
 
 
-# Summary for radiation physics
+# Summary of radiation physics
+📄 **Summary of radiation physics:**  [pdf](docs/CheatSheet-RP.pdf)  
 
+# Summary of eletrodynamics
+📄 **Summary of eletrodynamics:**  [pdf](docs/CheatSheet-EM.pdf)  
 
-# Cheatsheet for Eletrodynamics
-
-
-# Summary for Nuclear physics
+# Summary of nuclear physics
