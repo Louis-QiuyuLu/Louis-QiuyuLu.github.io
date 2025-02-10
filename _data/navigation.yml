@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "{{ site.baseurl }}/#about-me"
 
   - title: "Notes on STEM"
     url: "/notes-on-stem"
