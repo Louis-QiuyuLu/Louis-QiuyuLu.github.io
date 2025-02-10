@@ -1,8 +1,11 @@
 ---
-layout: page
-title: "Notes on Medicine"
 permalink: /notes-on-medicine/
+title: "Notes on Medicine"
+excerpt: "Medical knowledge and research insights."
+author_profile: true
 ---
 
-## Notes on Medicine
-这里是关于医学的笔记内容。
+<span class='anchor' id='notes-on-medicine'></span>
+
+# 🏥 Notes on Medicine
+This page contains notes and insights related to medical research and healthcare.
