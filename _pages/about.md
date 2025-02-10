@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-
-
-<div>
-    <div class="badge">The Literary Mind and the Carving of Dragons by Liu Xie.</div>
-    <img src='images/wenxindiaolong-shensi.png' alt="sym" width="60%">
+<div style="text-align: center;">
+    <div class="badge">The Literary Mind and the Carving of Dragons by Liu Xie《文心雕龍》劉勰.</div>
+    <img src="images/wenxindiaolong-shensi.png" alt="sym" style="width: 75%; display: block; margin: 0 auto;">
 </div>
 
 # 👨‍🔬 About me
