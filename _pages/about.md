@@ -49,7 +49,7 @@ My research interest includes medical radiation physics. I have published papers
   - STEP, MAT  
   - Chinese Physics Olympiad  
 - *2017.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
-  *Undergraduate Research Assistant* , [Lab Website]([http://qsqm.hust.edu.cn/People/Alumni.htm](https://www.iqsqm.com/list_21/)  
+  *Undergraduate Research Assistant* , [Lab Website](https://www.iqsqm.com/list_21/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
   - Quantum geometry measurement  
