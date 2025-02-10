@@ -11,7 +11,7 @@ author_profile: false
 This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
 
 # Summary of Radiation Physics
-📄 **Summary of Radiation Physics:**  [PDF](./CheatSheet-RP.pdf)  
+📄 **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
 
 # Summary of Electrodynamics
-📄 **Summary of Electrodynamics:**  [PDF](./CheatSheet-EM.pdf)  
+📄 **Summary of Electrodynamics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)  
