@@ -1,8 +1,11 @@
 ---
-layout: page
-title: "Others"
 permalink: /others/
+title: "Others"
+excerpt: "Miscellaneous thoughts and topics."
+author_profile: true
 ---
 
-## Others
-这里是其他内容，如个人兴趣、随笔等。
+<span class='anchor' id='others'></span>
+
+# 🎭 Others
+This page includes miscellaneous topics, personal thoughts, and interests.
