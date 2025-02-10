@@ -1,8 +1,11 @@
 ---
-layout: page
-title: "Notes on STEM"
 permalink: /notes-on-stem/
+title: "Notes on STEM"
+excerpt: "A collection of STEM-related notes."
+author_profile: true
 ---
 
-## Notes on STEM
-这里是关于 STEM（科学、技术、工程、数学）的笔记内容。
+<span class='anchor' id='notes-on-stem'></span>
+
+# 🧪 Notes on STEM
+This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
