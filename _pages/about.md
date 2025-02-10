@@ -13,7 +13,7 @@ redirect_from:
 
 <div>
     <div class="badge">文心雕龍-神思</div>
-    <img src='images/wenxindiaolong-shensi.png' alt="sym" width="100%">
+    <img src='images/wenxindiaolong-shensi.png' alt="sym" width="60%">
 </div>
 
 # 👨‍🔬 About me
