@@ -9,3 +9,12 @@ author_profile: false
 
 # 🧪 Notes on STEM
 This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
+
+
+# Summary for radiation physics
+
+
+# Cheatsheet for Eletrodynamics
+
+
+# Summary for Nuclear physics
