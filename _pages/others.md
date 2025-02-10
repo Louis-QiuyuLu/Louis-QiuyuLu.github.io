@@ -2,7 +2,7 @@
 permalink: /others/
 title: "Others"
 excerpt: "Miscellaneous thoughts and topics."
-author_profile: true
+author_profile: false
 ---
 
 <span class='anchor' id='others'></span>
