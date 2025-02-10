@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">文心雕龙</div>
+<img src='images/wenxindiaolong-shensi.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+  
 # 👨‍🔬 About me
-I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area.
+I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
 
 My research interest includes medical radiation physics.
 
