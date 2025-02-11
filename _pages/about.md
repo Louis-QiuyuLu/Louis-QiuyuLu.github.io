@@ -20,7 +20,7 @@ I am now pursuing a master's degree in medical physics at UoW. During my undergr
 
 My research interest includes medical radiation physics.
 
-📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.2.pdf)  
+📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.2.pdf)  (Last updated on 2025 Feb)
 
 # 🔥 News
 - *2025.03*: Start second semister of master's study.
