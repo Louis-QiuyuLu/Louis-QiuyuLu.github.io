@@ -27,7 +27,7 @@ My research interest includes medical radiation physics.
 
 # 📖 Education
 - *2024.07 - Now*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics, WAM: 92.25*  
+  *Master of Science in Medical Radiation Physics, WAM: 92*  
 - *2020.10 - 2021.03*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
   *Master Program of Physics (Dropped Out)*  
 - *2016.09 - 2020.06*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
@@ -71,4 +71,3 @@ My research interest includes medical radiation physics.
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
 - **Hobbies**: Classical Music, Chinese Calligraphy  
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=SEjcacLlU20YHU0rwQULwSLaZtsUg9r3gAkr2OwujFQ&co=2a99e8&ct=ffffff&cmo=3acc3a&cmn=0f650f'></script>
