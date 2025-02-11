@@ -10,16 +10,23 @@ author_profile: false
 # 🧪 Notes on STEM
 This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
 
-This medical physics master course covers the following STEM subjects:
+To transition into medical physics with a foundational background in science or engineering at the undergraduate level, one should have a solid understanding of the following STEM subjects:
 
 -Quantum mechanics
+
 -Eletrodynamics
+
 -Radiation physics
+
 -Nuclear physics
+
 -Detection of radiation
+
 -Physics of radiotherapy
+
 -Physics of medical imaging
--Radiobiolgy
+
+-Radiobiolgy and radiation protection
 
 # Summary of Radiation physics
 📄 **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
