@@ -2,3 +2,7 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+document.querySelectorAll('a').forEach(function(link) {
+  link.setAttribute('target', '_self');
+});
