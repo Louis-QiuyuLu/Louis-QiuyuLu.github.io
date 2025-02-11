@@ -51,15 +51,7 @@ In the United States, the process is regulated by the **American Board of Radiol
 
 ---
 
-## Flowchart of the Pathways
+## License  
+These notes are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 
-```mermaid
-graph TD;
-    A[STEM Undergraduate Degree] -->|Australia| B[ACPSEM-Accredited MSc in Medical Physics];
-    B --> C[TEAP Registrar Program];
-    C --> D[Certified Medical Physicist (ACPSEM)];
-    
-    A -->|USA| E[CAMPEP-Accredited Graduate Degree in Medical Physics];
-    E --> F[Medical Physics Residency];
-    F --> G[ABR Certification Exams];
-    G --> H[Board-Certified Medical Physicist (ABR)];
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
