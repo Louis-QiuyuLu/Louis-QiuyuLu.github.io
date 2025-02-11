@@ -2,7 +2,7 @@
 permalink: /notes-on-stem/
 title: "Notes on STEM"
 excerpt: "A collection of STEM-related notes."
-author_profile: false
+author_profile: true
 ---
 
 <span class='anchor' id='notes-on-stem'></span>
