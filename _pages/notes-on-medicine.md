@@ -2,7 +2,7 @@
 permalink: /notes-on-medicine/
 title: "Notes on Medicine"
 excerpt: "Medical knowledge."
-author_profile:false
+author_profile: false
 ---
 
 <span class='anchor' id='notes-on-medicine'></span>
