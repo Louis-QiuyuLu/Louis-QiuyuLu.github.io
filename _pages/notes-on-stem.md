@@ -28,7 +28,7 @@ author_profile: false
 # Expanding Beyond the Undergraduate Curriculum
 
 - **Nuclear physics**
-  - Basic nuclear models (liquid drop, shell model and collective model), decay modes of radioactive nuclides ($α, β+, β−, γ$) and cross-section calculations of nuclear reactions.
+  - Basic nuclear models (liquid drop, shell model and collective model), decay modes of radioactive nuclides ($α, β^+, β^−, γ$) and cross-section calculations of nuclear reactions.
   - [Martin](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) and [Krane](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) are good starting points. [Tina Potter’s slides](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) provide clear explanations and useful insights. For more details, refer to [Blatt & Weisskopf](https://link.springer.com/book/10.1007/978-1-4612-9959-2) for formal scattering theory.
 
 - **Radiation physics**
