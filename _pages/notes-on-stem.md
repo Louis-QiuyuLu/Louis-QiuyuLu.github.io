@@ -1,14 +1,11 @@
 ---
 permalink: /notes-on-stem/
 title: "Notes on STEM"
-excerpt: "A collection of STEM-related notes."
+excerpt: "This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM)."
 author_profile: false
 ---
 
 <span class='anchor' id='notes-on-stem'></span>
-
-# 🧪 Notes on STEM
-This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM).
 
 To transition into medical physics with a foundational background in science or engineering at the undergraduate level, one should have a solid understanding of the following STEM subjects:
 
