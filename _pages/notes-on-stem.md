@@ -9,7 +9,7 @@ author_profile: false
 
 To transition into medical physics with a foundational background in science or engineering at the undergraduate level, one should have a solid understanding of the following STEM subjects:
 
-### Covered or at least mentioned in standard undergraduate physics
+# Covered or at least mentioned in standard undergraduate physics
 
 - **Mathematical methods in physics**
   - Partial differential equations, Green’s functions, and variational methods. Special functions like Legendre, Bessel, and spherical harmonics appear often but usually in pre-tabulated or numerically evaluated forms.
@@ -31,7 +31,7 @@ To transition into medical physics with a foundational background in science or 
   - Basic nuclear models (liquid drop, shell model), nuclear reactions, decay processes, and detector principles.
   - [Martin](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) and [Krane](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) are good starting points. [Tina Potter’s slides](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) provide clear explanations and useful insights. For more details, refer to [Blatt & Weisskopf](https://link.springer.com/book/10.1007/978-1-4612-9959-2) for formal scattering theory.
 
-### New things perhaps
+# New things perhaps
 
 - **Radiation physics**
   - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET.
@@ -51,7 +51,7 @@ To transition into medical physics with a foundational background in science or 
 - **Radiobiology and radiation protection**
   -
 
-### Not so helpful notes and summarys
+# Not so helpful notes and summarys
 - **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
 - **Summary of Electrodynamics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)  
 
