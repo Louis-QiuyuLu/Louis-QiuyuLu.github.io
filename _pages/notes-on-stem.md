@@ -34,7 +34,7 @@ To transition into medical physics with a foundational background in science or 
 # New things perhaps
 
 - **Radiation physics**
-  - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET.
+  - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET, stopping power, and dose. 
   - [Turner](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) and [Hooshang Nikjoo, Shuzo Uehara, Dimitris Emfietzoglou](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) are helpful, refer to [Podgorsak](https://link.springer.com/book/10.1007/978-3-319-25382-4) and [Podgorsak](https://link.springer.com/book/10.1007/978-3-642-20186-8) for details.
 
 - **Detection of radiation**
@@ -49,7 +49,7 @@ To transition into medical physics with a foundational background in science or 
   - CT, MRI, PET-CT, etc.
 
 - **Radiobiology and radiation protection**
-  -
+  - tbc.
 
 # Not so helpful notes and summarys
 - **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
