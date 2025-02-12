@@ -49,7 +49,7 @@ author_profile: false
 
 - **Radiobiology and radiation protection**
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
-  - [*Hall*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
+  - [*Hall*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui) is the standard reference.
 
 # Notes and Summaries
 - **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
