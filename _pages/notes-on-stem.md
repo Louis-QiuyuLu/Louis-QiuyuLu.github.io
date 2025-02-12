@@ -14,7 +14,7 @@ author_profile: false
   - [*Hassani*](https://link.springer.com/book/10.1007/978-3-319-01195-0) is good for a general overview and advanced details. Numerical methods texts are more practical.
 
 - **Computational methods**
-  - Monte Carlo simulation (e.g., [Geant4](https://geant4.web.cern.ch/), [FLUKA](http://www.fluka.org/fluka.php?)) for radiation transport, finite element methods(COMSOL, ANSYS) for solving EM field problems, and numerical techniques for dose calculation.
+  - Monte Carlo simulation ([Geant4](https://geant4.web.cern.ch/), [FLUKA](http://www.fluka.org/fluka.php?)) for radiation transport, finite element methods(COMSOL, ANSYS) for solving EM field problems, and numerical techniques for dose calculation.
   - For practical applications, open-source toolkits and software manuals are often more useful than standard textbooks.
 
 - **Quantum mechanics**
