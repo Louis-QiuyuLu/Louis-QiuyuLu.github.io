@@ -11,7 +11,8 @@ author_profile: false
 
 - **Human Anatomy and Physiology**  
   - Structure and function of major organ systems. Medical terminology and physiological processes.
-  - [Gray's Anatomy(42nd Edition):The Anatomical Basis of Clinical Practice](https://shop.elsevier.com/books/grays-anatomy/standring/978-0-7020-7705-0).
+  - STEM student could start with [Principles of Anatomy and Physiology, 3rd Asia-Pacific Edition](https://www.wileydirect.com.au/blog/buy/principles-of-anatomy-and-physiology-asia-pacific-edition/?srsltid=AfmBOorTRFBSIrfO-PDfTd9BR-kaYMWYP-mamYNXRg-ehUL8ADH62A3D) for systemic anatomy, and [Moore's Clinically Oriented Anatomy, 9th Edition](https://shop.lww.com/moore-s-clinically-oriented-anatomy/p/9781975209544?srsltid=AfmBOopd_CAzJbcWOXU7i6bFNUOBTxDoVCQzIYINXxg1ak7L7EMn5ar7) for regional anatomy, refer to [Gray's Anatomy(42nd Edition):The Anatomical Basis of Clinical Practice](https://shop.elsevier.com/books/grays-anatomy/standring/978-0-7020-7705-0) for clinical details and [Weir & Abrahams’ Imaging Atlas of Human Anatomy(6th Edition)](https://shop.elsevier.com/books/weir-and-abrahams-imaging-atlas-of-human-anatomy/spratt/978-0-7020-7926-9)for imaging details.
+  - Online resource: [Radiopaedia](https://radiopaedia.org/?lang=us), [e-anatomy](https://www.imaios.com/cn/e-anatomy), [anatomytool](https://anatomytool.org/content/best-open-anatomy-learning-resources).
 
 # Specialized Areas in Medical Imaging and Oncology
 
