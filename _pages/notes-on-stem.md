@@ -24,7 +24,7 @@ To transition into medical physics with a foundational background in science or 
   - [Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E#overview), [Sakurai](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC#overview) are fine for beginners, refer to [Cohen-Tannoudji](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713) for details.
 
 - **Electrodynamics**
-  - Calculation of EM fields (most problems do not have analytic solutions, involving complex analysis and weird special functions, requiring finite element methods) and relativistically charged particle dynamics. QED is still unnecessary but no harm if you are really interested in the calculation of Feynman diagrams.
+  - Calculation of EM fields and relativistically charged particle dynamics. QED is still unnecessary but no harm if you are really interested in the calculation of Feynman diagrams.
   - Begin with [Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview), advance to [Jackson](https://www.wiley.com/en-au/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) and [Zangwill](https://www.cambridge.org/highereducation/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9#overview).
 
 - **Nuclear physics**
