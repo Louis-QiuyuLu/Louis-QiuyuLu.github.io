@@ -27,11 +27,11 @@ To transition into medical physics with a foundational background in science or 
   - Calculation of EM fields and relativistically charged particle dynamics. QED is still unnecessary but no harm if you are really interested in the calculation of Feynman diagrams.
   - Begin with [Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview), advance to [Jackson](https://www.wiley.com/en-au/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) and [Zangwill](https://www.cambridge.org/highereducation/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9#overview).
 
+# New things perhaps
+
 - **Nuclear physics**
   - Basic nuclear models (liquid drop, shell model), nuclear reactions, decay processes, and detector principles.
   - [Martin](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) and [Krane](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) are good starting points. [Tina Potter’s slides](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) provide clear explanations and useful insights. For more details, refer to [Blatt & Weisskopf](https://link.springer.com/book/10.1007/978-1-4612-9959-2) for formal scattering theory.
-
-# New things perhaps
 
 - **Radiation physics**
   - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET, stopping power, and dose. 
