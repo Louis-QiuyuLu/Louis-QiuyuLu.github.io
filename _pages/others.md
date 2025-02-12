@@ -7,9 +7,6 @@ author_profile: false
 
 <span class='anchor' id='others'></span>
 
-# 🎭 Others
-This page includes miscellaneous topics, personal thoughts, and interests.
-
 # Pathways to Clinical Medical Physics for STEM Undergraduates (Australia & USA)
 
 ## Australia
