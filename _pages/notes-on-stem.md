@@ -25,9 +25,9 @@ To transition into medical physics with a foundational background in science or 
 - Eletrodynamics
   - Calculation of EM field(most problems does not have analytic solution involved with complex analysis and werid special function, have to do finite element method) and relativly charged particle dynamics. QED is still uncessary but no harm if you are really interested in calculation of Feynman diagram.
   - Begin with Griffiths, advance to Jackson/Zangwill.
--Nuclear physics
+- Nuclear physics
   - Basic nuclear models (liquid drop, shell model), nuclear reactions, decay processes, and detector principles.
-  -Martin and Krane are good starting points. Tina Potter’s slides provide clear explanations and useful insights. For more details, refer to Blatt & Weisskopf for formal scattering theory.
+  - Martin and Krane are good starting points. Tina Potter’s slides provide clear explanations and useful insights. For more details, refer to Blatt & Weisskopf for formal scattering theory.
   
 ### New things perhaps
 - Radiation physics
@@ -40,7 +40,7 @@ To transition into medical physics with a foundational background in science or 
   - Metcalfe is good.
 - Physics of medical imaging
   -CT, MRI, PETCT, etc.
--Radiobiolgy and radiation protection
+- Radiobiolgy and radiation protection
 
 
 ### Not so helpful notes and summarys
