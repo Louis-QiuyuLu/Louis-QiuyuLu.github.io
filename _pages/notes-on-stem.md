@@ -7,7 +7,7 @@ author_profile: false
 
 <span class='anchor' id='notes-on-stem'></span>
 
-# Covered or at least mentioned in standard undergraduate physics
+# Fundamental Topics Commonly Covered in Undergraduate Physics
 
 - **Mathematical methods in physics**
   - Partial differential equations, Green’s functions, and variational methods. Special functions like Legendre, Bessel, and spherical harmonics appear often but usually in pre-tabulated or numerically evaluated forms.
@@ -25,7 +25,7 @@ author_profile: false
   - Calculation of EM fields, relativistically charged particle dynamics, wave propagation in biological tissues (e.g., $B_1$ field distribution in MRI, RF heating). QED is not necessary, though familiarity with Feynman diagrams can be beneficial for those interested.
   - Begin with [Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview), advance to [Jackson](https://www.wiley.com/en-au/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) and [Zangwill](https://www.cambridge.org/highereducation/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9#overview).
 
-# New things perhaps
+# Expanding Beyond the Undergraduate Curriculum
 
 - **Nuclear physics**
   - Basic nuclear models (liquid drop, shell model and collective model), decay modes of radioactive nuclides ($α, β+, β−, γ$) and cross-section calculations of nuclear reactions.
@@ -51,7 +51,7 @@ author_profile: false
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
   - [Hall](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
 
-# Not so helpful notes and summarys
+# Notes and Summaries—Use with Caution
 - **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
 - **Summary of Electrodynamics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)  
 
