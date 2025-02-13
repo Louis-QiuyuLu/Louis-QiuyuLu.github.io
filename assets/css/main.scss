@@ -42,12 +42,12 @@
 
 
 body {
-    background-image: url('/images/android-chrome-512x512.png'); /* 图片路径 */
-    background-repeat: no-repeat; /* 不重复 */
-    background-position: center center; /* 居中 */
-    background-size: contain; /* 适应屏幕 */
-    opacity: 0.1; /* 设置透明度，防止干扰内容 */
-    pointer-events: none; /* 防止影响点击 */
+    background-image: url('/images/android-chrome-512x512.png'); 
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: contain; 
+    opacity: 0.1; 
+    pointer-events: none; 
 }
 
 .paper-box {
