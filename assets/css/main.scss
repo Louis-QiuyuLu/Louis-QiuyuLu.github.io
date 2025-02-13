@@ -17,7 +17,7 @@
 
 @import "reset";
 @import "base";
-
+@import "watermark";
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -39,6 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+body {
+    background-image: url('/images/android-chrome-512x512.png'); /* 图片路径 */
+    background-repeat: no-repeat; /* 不重复 */
+    background-position: center center; /* 居中 */
+    background-size: contain; /* 适应屏幕 */
+    opacity: 0.1; /* 设置透明度，防止干扰内容 */
+    pointer-events: none; /* 防止影响点击 */
+}
 
 .paper-box {
     display: flex;
