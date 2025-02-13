@@ -154,7 +154,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-baseurl: ""  # 如果你的网站是 https://yourusername.github.io/
+baseurl: "" 
 
 # HTML Compression
 # - http://jch.penibelst.de/
