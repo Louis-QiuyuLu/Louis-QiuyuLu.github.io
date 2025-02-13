@@ -17,7 +17,6 @@
 
 @import "reset";
 @import "base";
-@import "watermark";
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -41,14 +40,6 @@
 @import "print";
 
 
-body {
-    background-image: url('/images/android-chrome-512x512.png'); 
-    background-repeat: no-repeat;
-    background-position: center center; 
-    background-size: contain; 
-    opacity: 0.1; 
-    pointer-events: none; 
-}
 
 .paper-box {
     display: flex;
