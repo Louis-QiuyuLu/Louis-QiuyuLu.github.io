@@ -52,8 +52,9 @@ author_profile: false
   - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui) is the standard reference.
 
 # Notes and Summaries
-- **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
-- **Summary of Electrodynamics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)  
+- **Summary of Nuclear physics:**  [PDF](https://louis-qiuyulu.github.io/summary of NP.pdf) 
+- **Summary of Radiation physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
+- **Summary of Electrodynamics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)
 
 ---
 
