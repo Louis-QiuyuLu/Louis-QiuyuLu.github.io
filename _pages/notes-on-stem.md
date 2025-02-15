@@ -29,7 +29,7 @@ author_profile: false
 
 - **Nuclear physics**
   - Basic nuclear models (liquid drop, shell model and collective model), decay modes of radioactive nuclides ($α, β^+, β^−, γ$) and cross-section calculations of nuclear reactions.
-  - [*Martin*](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) and [*Krane*](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) are good starting points. [*Tina Potter’s slides*](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) provide clear explanations and useful insights. For more details, refer to [Blatt & Weisskopf](https://link.springer.com/book/10.1007/978-1-4612-9959-2) for formal scattering theory.
+  - [*Martin*](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) and [*Krane*](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) are good starting points. [*Tina Potter’s slides*](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) provide clear explanations and useful insights. For more details, refer to [*Blatt & Weisskopf*](https://link.springer.com/book/10.1007/978-1-4612-9959-2) for formal scattering theory.
 
 - **Radiation physics**
   - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET, stopping power, and dose. 
@@ -41,7 +41,7 @@ author_profile: false
 
 - **Physics of radiotherapy**
   - Intensity-Modulated Radiation Therapy (IMRT), Volumetric Modulated Arc Therapy (VMAT), Image-Guided Radiation Therapy (IGRT), Stereotactic Body Radiation Therapy (SBRT), Boron Neutron Capture Therapy (BNCT), Proton Therapy, and Heavy Ion Therapy.
-  - [*Metcalfe*](https://medicalphysics.org/SimpleCMS.php?content=bookpage.php&isbn=9781951134105) provides a comprehensive overview.
+  - [*The Physics of Radiotherapy X-Rays and Electrons 3rd Edition*](https://medicalphysics.org/SimpleCMS.php?content=bookpage.php&isbn=9781951134105) and [*Khan’s The Physics of Radiation Therapy*](https://shop.lww.com/Khan-s-The-Physics-of-Radiation-Therapy/p/9781496397522?srsltid=AfmBOopw7KJsy68Iq6t5fNmViGW7WDQIXC6WdX8PdLDcxhLL__zHAxzC) provide a comprehensive overview.
   - AAPM Task Group reports serve as essential clinical references.
 
 - **Physics of medical imaging**
@@ -49,7 +49,7 @@ author_profile: false
 
 - **Radiobiology and radiation protection**
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
-  - [*Hall*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui) is the standard reference.
+  - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui) is the standard reference.
 
 # Notes and Summaries
 - **Summary of Radiation Physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)  
