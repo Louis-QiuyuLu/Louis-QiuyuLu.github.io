@@ -33,7 +33,7 @@ My research interest includes medical radiation physics.
 - *2016.09 - 2020.06*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
   *Bachelor of Science, Major in Physics, GPA: 3.50/4*  
   - **Bachelor Thesis**: *Review on Relativistic Quantum Information*  
-  - **Supervisor**: Prof. Jianming Cai  
+  - **Supervisor**: [Prof. Jianming Cai](https://scholar.google.com/citations?user=0t9hhLUAAAAJ&hl=en)
 - *2015.09 - 2016.09*, **Huazhong University of Science and Technology, School of Optoelectronic Information**, Wuhan, China  
   *Major in Optoelectronic Information (Later Transferred to Physics), GPA: 3.86/4*  
 
@@ -42,9 +42,9 @@ My research interest includes medical radiation physics.
   *Radiotherapy Shadowing*  
 - *2022.01 - 2024.01*, **Limitless Minds Education**, Shenzhen, China  
   *Math and Physics Teacher*  
-  - A-Level Math, A-Level Physics  
+  - A-Level Mathematics, A-Level Mathematics Further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
-  - STEP, MAT  
+  - STEP, MAT, PAT
   - Chinese Physics Olympiad  
 - *2017.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
   *Undergraduate Research Assistant* , [Lab Website](https://www.iqsqm.com/list_21/)  
