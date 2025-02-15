@@ -20,7 +20,7 @@ The pathway to becoming a clinical medical physicist in Australia follows a stru
 2. **Enter the TEAP (Training, Education, and Assessment Program) Registrar Program**
    - TEAP is the clinical training pathway required to become a certified medical physicist.
    - Admission is highly competitive, and many successful applicants have a PhD or even postdoctoral research experience.
-   - The program typically takes **3–5 years** and involves structured clinical training under supervision.
+   - The program typically takes **3 years** and involves structured clinical training under supervision.
 
 3. **Qualify as a Certified Medical Physicist**
    - After completing TEAP, candidates become **ACPSEM-certified medical physicists** and can practice clinically.
