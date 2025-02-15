@@ -29,7 +29,7 @@ My research interest includes medical radiation physics.
 - *2024.07 - Now*, **University of Wollongong, School of Physics**, Wollongong, Australia  
   *Master of Science in Medical Radiation Physics, WAM: 92*  
 - *2020.10 - 2021.03*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
-  *Master Program of Physics (Dropped Out)*  
+  *Master Program of Physics (Drop out)*  
 - *2016.09 - 2020.06*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
   *Bachelor of Science, Major in Physics, GPA: 3.50/4*  
   - **Bachelor Thesis**: *Review on Relativistic Quantum Information*  
