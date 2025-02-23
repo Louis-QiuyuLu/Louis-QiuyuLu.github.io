@@ -40,8 +40,8 @@ My research interest includes medical radiation physics.
 # 💻 Experience
 - *2024.06*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
   *Radiotherapy Shadowing*  
-- *2022.01 - 2024.01*, **Limitless Minds Education**, Shenzhen, China  
-  *Math and Physics Teacher*  
+- *2022.01 - 2024.01*, **Educational institution**, Shenzhen, China  
+  *Math and Physics Tutor*  
   - A-Level Mathematics, A-Level Mathematics Further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
   - STEP, MAT, PAT
