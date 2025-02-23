@@ -33,7 +33,7 @@ author_profile: false
 
 - **Radiation physics**
   - Electron, photon, neutron interaction with matter. Concepts of KERMA, LET, stopping power, and dose. 
-  - [*Turner*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) and [*Hooshang Nikjoo*](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) are helpful, refer to [*Podgorsak*](https://link.springer.com/book/10.1007/978-3-319-25382-4) and [*Podgorsak*](https://link.springer.com/book/10.1007/978-3-642-20186-8) for details.
+  - [*Turner*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) and [*Hooshang Nikjoo*](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) are helpful, refer to [*Radiation Physics for Medical Physicists*](https://link.springer.com/book/10.1007/978-3-319-25382-4) and [*Compendium to Radiation Physics for Medical Physicists*](https://link.springer.com/book/10.1007/978-3-642-20186-8) for details.
 
 - **Detection of radiation**
   - Principles of radiation detection, including gas-filled detectors, scintillators, and semiconductor detectors. Concepts like energy resolution, efficiency, dead time, and statistical uncertainty are crucial. Pulse processing and spectroscopy methods are also important for practical applications.
@@ -42,10 +42,12 @@ author_profile: false
 - **Physics of radiotherapy**
   - Intensity-Modulated Radiation Therapy (IMRT), Volumetric Modulated Arc Therapy (VMAT), Image-Guided Radiation Therapy (IGRT), Stereotactic Body Radiation Therapy (SBRT), Boron Neutron Capture Therapy (BNCT), Proton Therapy, and Heavy Ion Therapy.
   - [*The Physics of Radiotherapy X-Rays and Electrons 3rd Edition*](https://medicalphysics.org/SimpleCMS.php?content=bookpage.php&isbn=9781951134105) and [*Khan’s The Physics of Radiation Therapy*](https://shop.lww.com/Khan-s-The-Physics-of-Radiation-Therapy/p/9781496397522?srsltid=AfmBOopw7KJsy68Iq6t5fNmViGW7WDQIXC6WdX8PdLDcxhLL__zHAxzC) provide a comprehensive overview.
-  - AAPM Task Group reports serve as essential clinical references.
+  - AAPM Task Group reports and ICRU reports serve as essential clinical references.
 
 - **Physics of medical imaging**
   - Computed Tomography (CT), Magnetic Resonance Imaging (MRI), Positron Emission Tomography-Computed Tomography (PET-CT), and related imaging modalities.
+  -   - [*The Essential Physics of Medical Imaging, 3rd Edition*](https://pubmed.ncbi.nlm.nih.gov/28524933/), [*Handbook on the Physics of Diagnostic Radiology*](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1564webNew-74666420.pdf), [*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) and [*Medical Imaging Physics, 4th Edition*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135).
+
 
 - **Radiobiology and radiation protection**
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
