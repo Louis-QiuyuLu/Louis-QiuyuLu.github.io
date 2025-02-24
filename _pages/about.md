@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
 # 👨‍🔬 About me
-I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
+My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
 
 
 My research interest includes medical radiation physics.
