@@ -12,7 +12,8 @@ author_profile: false
 - **Human Anatomy and Physiology**  
   - Understanding the structure and function of major organ systems, medical terminology, and physiological processes.  
   - A STEM student could begin with [*Principles of Anatomy and Physiology, 3rd Asia-Pacific Edition*](https://www.wileydirect.com.au/blog/buy/principles-of-anatomy-and-physiology-asia-pacific-edition/?srsltid=AfmBOorTRFBSIrfO-PDfTd9BR-kaYMWYP-mamYNXRg-ehUL8ADH62A3D) for systemic anatomy and [*Moore's Clinically Oriented Anatomy, 9th Edition*](https://shop.lww.com/moore-s-clinically-oriented-anatomy/p/9781975209544?srsltid=AfmBOopd_CAzJbcWOXU7i6bFNUOBTxDoVCQzIYINXxg1ak7L7EMn5ar7) for regional anatomy. For more in-depth clinical details, refer to [*Gray's Anatomy (42nd Edition): The Anatomical Basis of Clinical Practice*](https://shop.elsevier.com/books/grays-anatomy/standring/978-0-7020-7705-0). Additionally, [*Weir & Abrahams’ Imaging Atlas of Human Anatomy (6th Edition)*](https://shop.elsevier.com/books/weir-and-abrahams-imaging-atlas-of-human-anatomy/spratt/978-0-7020-7926-9) provides valuable insights into anatomical imaging.  
-  - **Online Resources**:  
+  - **Online Resources**:
+    - [AnatomyLearning](https://anatomylearning.com/) - An online 3D anatomy model.
     - [**Radiopaedia**](https://radiopaedia.org/?lang=us) – A comprehensive radiology resource with case studies and imaging examples.  
     - [**e-Anatomy**](https://www.imaios.com/cn/e-anatomy) – An interactive atlas covering detailed anatomical images.  
     - [**AnatomyTool**](https://anatomytool.org/content/best-open-anatomy-learning-resources) – A curated selection of high-quality, open-access anatomy learning materials.  
