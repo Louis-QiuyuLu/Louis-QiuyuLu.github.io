@@ -46,7 +46,7 @@ My research interest includes medical radiation physics.
   - AP Precalculus, AP Calculus, AP Physics  
   - STEP, MAT, PAT
   - Chinese Physics Olympiad  
-- *2017.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
+- *2018.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
   *Undergraduate Research Assistant* , [Lab Website](https://www.iqsqm.com/list_21/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
