@@ -15,7 +15,7 @@ author_profile: false
   - **Online Resources**:
     - [**AnatomyLearning**](https://anatomylearning.com/) - An online 3D anatomy model.
     - [**Radiopaedia**](https://radiopaedia.org/?lang=us) – A comprehensive radiology resource with case studies and imaging examples.  
-    - [**e-Anatomy**](https://www.imaios.com/cn/e-anatomy) – An interactive atlas covering detailed anatomical images.  
+    - [**e-Anatomy**](https://www.imaios.com/en/e-anatomy) – An interactive atlas covering detailed anatomical images.  
     - [**AnatomyTool**](https://anatomytool.org/content/best-open-anatomy-learning-resources) – A curated selection of high-quality, open-access anatomy learning materials.  
 
 
