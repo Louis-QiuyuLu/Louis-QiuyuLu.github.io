@@ -46,11 +46,11 @@ author_profile: false
 
 - **Physics of medical imaging**
   - Computed Tomography (CT), Magnetic Resonance Imaging (MRI), Positron Emission Tomography-Computed Tomography (PET-CT), and related imaging modalities.
-  -   - [*The Essential Physics of Medical Imaging, 3rd Edition*](https://pubmed.ncbi.nlm.nih.gov/28524933/), [*Handbook on the Physics of Diagnostic Radiology*](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1564webNew-74666420.pdf), [*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) and [*Medical Imaging Physics, 4th Edition*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135).
+  -   - [*The Essential Physics of Medical Imaging, 3rd Edition*](https://pubmed.ncbi.nlm.nih.gov/28524933/), [*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) and [*Medical Imaging Physics, 4th Edition*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135).
 
 - **Radiobiology and radiation protection**
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
-  - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui) is the standard reference.
+  - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
 
 # Notes and Summaries
 - **Quantum mechanics:**
