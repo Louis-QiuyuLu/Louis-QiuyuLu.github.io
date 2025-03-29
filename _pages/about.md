@@ -47,7 +47,7 @@ My research interest includes medical radiation physics.
   - STEP, MAT, PAT
   - Chinese Physics Olympiad  
 - *2018.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
-  *Undergraduate Research Assistant* , [Lab Website](https://www.iqsqm.com/list_21/)  
+  *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/list_21/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
   - Quantum geometry measurement  
@@ -70,4 +70,3 @@ My research interest includes medical radiation physics.
 - **Language**: Mandarin (Native), English (TOEFL iBT: 102), Japanese (Conversational)  
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
 - **Hobbies**: Classical Music, Chinese Calligraphy  
-
