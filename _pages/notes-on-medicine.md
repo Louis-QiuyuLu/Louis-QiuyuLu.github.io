@@ -32,7 +32,9 @@ author_profile: false
 - **Nuclear Medicine (for Division of Nuclear Medicine)**  
   - Radionuclide imaging, SPECT, and PET. Radiopharmaceuticals and tracer kinetics. Quantitative imaging and dosimetry.
   - Relevant references: *TBC*
-    
+
+---
+
 ## License  
 These notes are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 
