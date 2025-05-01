@@ -35,14 +35,14 @@ My research interest includes medical radiation physics.
   - **Bachelor Thesis**: *Review on Relativistic Quantum Information*  
   - **Supervisor**: [Prof. Jianming Cai](https://scholar.google.com/citations?user=0t9hhLUAAAAJ&hl=en)
 - *2015.09 - 2016.09*, **Huazhong University of Science and Technology, School of Optoelectronic Information**, Wuhan, China  
-  *Major in Optoelectronic Information (Later Transferred to Physics), GPA: 3.86/4*  
+  *Major in Optoelectronic Information Engineering (Later Transferred to Physics), GPA: 3.86/4*  
 
 # 💻 Experience
 - *2024.06*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
   *Radiotherapy Shadowing*  
 - *2022.01 - 2024.01*, **Educational institution**, Shenzhen, China  
   *Math and Physics Tutor*  
-  - A-Level Mathematics, A-Level Mathematics Further, A-Level Physics  
+  - A-Level Mathematics, A-Level Mathematics further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
   - STEP, MAT, PAT
   - Chinese Physics Olympiad  
@@ -57,11 +57,11 @@ My research interest includes medical radiation physics.
 - [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
 
 # 🎖 Honors and Awards
-- *2020.12* Online-Germany Physics Tournament 2020, By20, Best Reviewer.  
+- *2020.12* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
 - *2018.03* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
 - *2018.02* MCM/ICM, Honorable Mention.  
-- *2018.01* ITPO for Undergraduate Students, Tied 1st Place.  
-- *2017.11* University Physics Competition, Silver Medal.  
+- *2018.01* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place.  
+- *2017.11* University Physics Competition, Silver medal.  
 - *2017.10* Outstanding Undergraduates in Terms of Academic Performance.  
 - *2017.10* National Scholarship.
 
@@ -69,4 +69,4 @@ My research interest includes medical radiation physics.
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin (Native), English (TOEFL iBT: 102), Japanese (Conversational)  
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
-- **Hobbies**: Classical Music, Chinese Calligraphy  
+- **Hobbies**: Classical music, Chinese calligraphy, Photography  
