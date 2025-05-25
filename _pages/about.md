@@ -20,7 +20,7 @@ My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a mast
 
 My research interest includes medical radiation physics.
 
-📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.2.pdf)  (Last updated on 2025 Feb)
+📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 June)
 
 # 🔥 News
 - *2025.03*: Start second semister of master's study.
@@ -47,7 +47,7 @@ My research interest includes medical radiation physics.
   - STEP, MAT, PAT
   - Chinese Physics Olympiad  
 - *2018.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
-  *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/list_21/)  
+  *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
   - Quantum geometry measurement  
