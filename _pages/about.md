@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
 # 👨‍🔬 About me
-My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor at an educational institution. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
+My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a master's degree in medical physics at UoW. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
 
 My current research interests include medical imaging and radiation biology. In particular, I am interested in the development of deep learning–based image analysis methods and the investigation of radiobiological effects under modalities such as minibeam, microbeam, and FLASH. I also remain open to exploring interdisciplinary approaches that may incorporate quantum technologies (hyperpolarization MRI and etc.) in future PhD research.
 
@@ -68,4 +68,4 @@ My current research interests include medical imaging and radiation biology. In 
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin (Native), English (TOEFL iBT: 102), Japanese (Conversational)  
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
-- **Hobbies**: Classical music, Chinese calligraphy, Photography  
+- **Hobbies**: Chinese calligraphy, coffee craft, classical music, photography
