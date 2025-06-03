@@ -18,7 +18,7 @@ author_profile: false
     - [**e-Anatomy**](https://www.imaios.com/en/e-anatomy) 
     - [**AnatomyTool**](https://anatomytool.org/content/best-open-anatomy-learning-resources) 
 
-- **Biochemical and Molecular Biology**
+- **Biochemistry and Molecular Biology**
   - Relevant references: *TBC*
   
 - **Pathology**
