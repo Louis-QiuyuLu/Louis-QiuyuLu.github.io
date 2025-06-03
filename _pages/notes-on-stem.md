@@ -10,7 +10,7 @@ author_profile: false
 # Fundamental Commonly Covered in Undergraduate
 
 - **Mathematical methods in physics**
-  - ODEs and PDEs, Contour Integral, Green’s functions, and variational methods. Special functions like Legendre, Bessel, and spherical harmonics appear often. Group theory and Lie algebra is also helpful for advanced theory.
+  - ODEs and PDEs, Contour Integral, Green’s functions, and variational methods. Special functions like Legendre, Bessel, and spherical harmonics appear often. Group theory and Lie algebra are also helpful for advanced theory.
   - [*Hassani*](https://link.springer.com/book/10.1007/978-3-319-01195-0) is good for a general overview and advanced details. Numerical methods texts are more practical.
 
 - **Computational methods**
