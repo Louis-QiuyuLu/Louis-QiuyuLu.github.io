@@ -53,7 +53,6 @@ author_profile: false
   - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
 
 # Cheatsheets, Notes and Summaries
-- **Quantum mechanics:**
 - **Electromagnetism:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)
 - **Nuclear physics:**  [PDF](https://louis-qiuyulu.github.io/summary-of-NP.pdf) 
 - **Radiation physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
