@@ -52,14 +52,14 @@ author_profile: false
   - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
   - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
 
-# Cheatsheets, Notes and Summaries
+# Cheatsheets, Notes and Summaries (Feedback and typo corrections are welcome!)
 - **Electromagnetism:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)
 - **Nuclear physics:**  [PDF](https://louis-qiuyulu.github.io/summary-of-NP.pdf) 
 - **Radiation physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
-- **Detection of radiation:**  
-- **Medical imaging:**
-- **Physics of radiotherapy:**
-- **Radiobiology and radiation protection:**
+- **Detection of radiation:**  [PDF](https://youtu.be/dQw4w9WgXcQ?si=3kAfal42S_PXCZyw)
+- **Medical imaging:**  [PDF](https://youtu.be/dQw4w9WgXcQ?si=3kAfal42S_PXCZyw)
+- **Physics of radiotherapy:**  [PDF](https://youtu.be/dQw4w9WgXcQ?si=3kAfal42S_PXCZyw)
+- **Radiobiology and radiation protection:**  [PDF](https://youtu.be/dQw4w9WgXcQ?si=3kAfal42S_PXCZyw)
 
 ---
 
