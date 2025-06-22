@@ -22,30 +22,34 @@ My current research interests include medical imaging and radiation biology. In 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 June)
 
 # 🔥 News
-- *2025.03*: Start second semister of master's study.
-
+- *March 2025*: Commenced the second semester of my Master's studies.
+  
 # 📖 Education
-- *2024.07 - Now*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics, WAM: 92*  
-- *2020.10 - 2021.03*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
-  *Master Program of Physics (Drop out)*  
-- *2016.09 - 2020.06*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
-  *Bachelor of Science, Major in Physics, GPA: 3.50/4*  
+- *Jul 2024 – Present*, **University of Wollongong, School of Physics**, Wollongong, Australia  
+  *Master of Science in Medical Radiation Physics*, WAM: 92
+
+- *Oct 2020 – Mar 2021*, **Ludwig Maximilian University of Munich, Faculty of Physics**, Munich, Germany  
+  *Master’s Program in Physics* (withdrew)
+
+- *Sep 2016 – Jun 2020*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
+  *Bachelor of Science in Physics*, GPA: 3.50/4.00  
   - **Bachelor Thesis**: *Review on Relativistic Quantum Information*  
   - **Supervisor**: [Prof. Jianming Cai](https://scholar.google.com/citations?user=0t9hhLUAAAAJ&hl=en)
-- *2015.09 - 2016.09*, **Huazhong University of Science and Technology, School of Optoelectronic Information**, Wuhan, China  
-  *Major in Optoelectronic Information Engineering (Later Transferred to Physics), GPA: 3.86/4*  
 
+- *Sep 2015 – Sep 2016*, **Huazhong University of Science and Technology, School of Optoelectronic Information**, Wuhan, China  
+  *Major in Optoelectronic Information Engineering* (transferred to Physics), GPA: 3.86/4.00
+
+  
 # 💻 Experience
-- *2024.06*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
+- *Jun 2024*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
   *Radiotherapy Shadowing*  
-- *2022.01 - 2024.01*, **Educational institution**, Shenzhen, China  
+- *Jan 2022 - Jan 2024*, **Educational institution**, Shenzhen, China  
   *Math and Physics Tutor*  
   - A-Level Mathematics, A-Level Mathematics further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
   - STEP, MAT, PAT
   - Chinese Physics Olympiad  
-- *2018.10 - 2020.06*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
+- *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
   *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
@@ -56,13 +60,13 @@ My current research interests include medical imaging and radiation biology. In 
 - [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
 
 # 🎖 Honors and Awards
-- *2020.12* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
-- *2018.03* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
-- *2018.02* MCM/ICM, Honorable Mention.  
-- *2018.01* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place.  
-- *2017.11* University Physics Competition, Silver medal.  
-- *2017.10* Outstanding Undergraduates in Terms of Academic Performance.  
-- *2017.10* National Scholarship.
+- *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
+- *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
+- *Feb 2018* MCM/ICM, Honorable Mention.  
+- *Jan 2018* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place.  
+- *Nov 2017* University Physics Competition, Silver medal.  
+- *Oct 2017* Outstanding Undergraduates in Terms of Academic Performance.  
+- *Oct 2017* National Scholarship.
 
 # 🛠 Skills & Interests
 - **Programming**: C/C++, Python, Fortran, R  
