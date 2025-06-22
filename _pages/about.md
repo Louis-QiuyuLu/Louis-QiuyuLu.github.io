@@ -65,7 +65,7 @@ My current research interests include medical imaging and radiation biology. In 
 - *Jan 2019* Many Body Entanglement & Topological Matter Winter School, SUSTech.  
 - *Dec 2017* Chinese Physical Society Annual Meeting, Wuhan University.  
 - *Oct 2017* National Symposium of Quantum Simulation, Shanxi University.
-- 
+
 # 🎖 Honors and Awards
 - *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
 - *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
