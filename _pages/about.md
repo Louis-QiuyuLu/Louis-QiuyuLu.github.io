@@ -22,7 +22,7 @@ My current research interests include medical imaging and radiation biology. In 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 June)
 
 # 🔥 News
-- *July 2025*: Actively seeking PhD opportunities after July 2026, please reach out!
+- *July 2025*: Actively seeking PhD positions to start in July 2026 — please get in touch!
 - *March 2025*: Commenced the second semester of my Master's studies.
 
 # 📖 Education
