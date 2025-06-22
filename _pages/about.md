@@ -56,9 +56,15 @@ My current research interests include medical imaging and radiation biology. In 
   - Quantum geometry measurement  
 
 # 📝 Publications 
-
 - [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
 
+# 🗓️ Conferences
+- *Feb 2025* MMND-ITRO 2025, Sydney.  
+- *Mar 2019* American Physical Society March Meeting, Boston.  
+- *Jan 2019* Many Body Entanglement & Topological Matter Winter School, SUSTech.  
+- *Dec 2017* Chinese Physical Society Annual Meeting, Wuhan University.  
+- *Oct 2017* National Symposium of Quantum Simulation, Shanxi University.
+- 
 # 🎖 Honors and Awards
 - *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
 - *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
@@ -72,4 +78,4 @@ My current research interests include medical imaging and radiation biology. In 
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin (Native), English (TOEFL iBT: 102), Japanese (Conversational)  
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
-- **Hobbies**: Chinese calligraphy, coffee craft, classical music, photography
+- **Hobbies**: Photography, classical music, coffee craft, Chinese calligraphy.
