@@ -57,7 +57,7 @@ author_profile: false
 - **Nuclear physics:**  [PDF](https://louis-qiuyulu.github.io/summary-of-NP.pdf) 
 - **Radiation physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
 - **Medical imaging:**  [PDF](https://louis-qiuyulu.github.io/summary-of-MI.pdf)
-- **Physics of radiotherapy:**  [PDF](https://youtu.be/dQw4w9WgXcQ?si=3kAfal42S_PXCZyw)
+- **Physics of radiotherapy:**  [PDF](https://louis-qiuyulu.github.io/summary-of-RT.pdf)
 - **Radiobiology and radiation protection:**  [PDF](https://www.bilibili.com/video/BV1UT42167xb/)
 
 ---
