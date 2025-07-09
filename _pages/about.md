@@ -27,7 +27,7 @@ My current research interests include medical imaging and radiation biology. In 
 
 # 📖 Education
 - *Jul 2024 – Present*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics*, WAM: 92
+  *Master of Science in Medical Radiation Physics*, WAM: 90.6
 
 - *Oct 2020 – Mar 2021*, **Ludwig Maximilian University of Munich, Faculty of Physics**, Munich, Germany  
   *Master’s Program in Physics* (withdrew)
