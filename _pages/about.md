@@ -62,9 +62,9 @@ My current research interests include medical imaging and radiation biology. In 
 # 🗓️ Conferences
 - *Feb 2025* MMND-ITRO 2025, Sydney.  
 - *Mar 2019* American Physical Society March Meeting, Boston.  
-- *Jan 2019* Many Body Entanglement & Topological Matter Winter School, SUSTech.  
-- *Dec 2017* Chinese Physical Society Annual Meeting, Wuhan University.  
-- *Oct 2017* National Symposium of Quantum Simulation, Shanxi University.
+- *Jan 2019* Many Body Entanglement & Topological Matter Winter School, SUSTech  
+- *Dec 2017* Chinese Physical Society Annual Meeting, Wuhan University 
+- *Oct 2017* National Symposium of Quantum Simulation, Shanxi University
 
 # 🎖 Honors and Awards
 - *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
@@ -78,5 +78,5 @@ My current research interests include medical imaging and radiation biology. In 
 # 🛠 Skills & Interests
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin, Japanese, English (TOEFL:R30/L28/S24/W26, GRE:V152/Q170/W3.5)
-- **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX  
-- **Hobbies**: Photography, classical music, coffee craft, Chinese calligraphy.
+- **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX, Adobe PS/PR/Audition
+- **Hobbies**: Photography, classical music, coffee craft, Chinese calligraphy
