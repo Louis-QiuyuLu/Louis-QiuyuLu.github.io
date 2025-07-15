@@ -22,12 +22,12 @@ My current research interests include medical imaging and radiation biology. In 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 July)
 
 # 🔥 News
-- *July 2025*: Actively seeking PhD positions to start in July 2026 — please get in touch!
-- *March 2025*: Commenced the second semester of my Master's studies.
+- *July 2025*: Commenced the third semester of Master's studies.
+- *June 2025*: Actively seeking PhD positions to start in July 2026 — please get in touch!
 
 # 📖 Education
 - *Jul 2024 – Present*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics*, WAM: 90.6 [Transcripts](https://www.myequals.net/sharelink/820fa7e9-c5e3-4aa1-8652-503701d1123c/5b6dc236-383f-4f26-aa59-356543bf9f11)
+  *Master of Science in Medical Radiation Physics*([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), WAM: 90.6 [transcripts](https://www.myequals.net/sharelink/820fa7e9-c5e3-4aa1-8652-503701d1123c/5b6dc236-383f-4f26-aa59-356543bf9f11)
 
 - *Oct 2020 – Mar 2021*, **Ludwig Maximilian University of Munich, Faculty of Physics**, Munich, Germany  
   *Master’s Program in Physics* (withdrew)
