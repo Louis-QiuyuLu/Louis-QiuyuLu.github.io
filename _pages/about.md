@@ -56,7 +56,7 @@ My current research interests include medical imaging and radiation biology. In 
   - Quantum dynamics in biophotonics  
 
 # 📝 Publications 
-- [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
+- [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, Nathan GoldAman, Jianming Cai, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
 
 # 🗓️ Conferences
 - *Feb 2025* MMND-ITRO 2025, Sydney.  
