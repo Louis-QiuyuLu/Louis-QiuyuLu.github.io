@@ -42,7 +42,7 @@ My current research interests include medical imaging and radiation biology. In 
 
   
 # 💻 Experience
-- *July 2025 - Present*, **Image X Institute, University of Sydney**, Sydney, Australia
+- *July 2025 - Present*, **Image X Institute, University of Sydney**, Sydney, Australia  
   *Deep learning based markerless tracking research project*
   - Supervisor: Prof. Paul Keall, Dr. Chandrima Sengupta, Dr. Zhuang Xiong
 
