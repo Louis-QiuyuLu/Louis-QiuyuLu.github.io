@@ -42,14 +42,20 @@ My current research interests include medical imaging and radiation biology. In 
 
   
 # 💻 Experience
+- *July 2025 - Present*, **Image X Institute, University of Sydney**, Sydney, Australia
+  - *Deep learning based markerless tracking research project*
+  - Supervisor: Prof. Paul Keall, Dr. Chandrima Sengupta, Dr. Zhuang Xiong
+
 - *Jun 2024*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
-  *Radiotherapy Shadowing*  
+  *Radiotherapy Shadowing*
+  
 - *Jan 2022 - Jan 2024*, **Educational institution**, Shenzhen, China  
   *Math and Physics Tutor*  
   - A-Level Mathematics, A-Level Mathematics further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
   - STEP, MAT, PAT
-  - Chinese Physics Olympiad  
+  - Chinese Physics Olympiad
+  
 - *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
   *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
   - Quantum sensing and quantum metrology technology  
@@ -78,4 +84,4 @@ My current research interests include medical imaging and radiation biology. In 
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin, Japanese, English (TOEFL:R30/L28/S24/W26, GRE:V152/Q170/W3.5)
 - **Applications**: MATLAB, Mathematica, COMSOL, Blender, LaTeX, Adobe PS/PR/Audition
-- **Hobbies**: Photography, classical music, coffee craft, Chinese calligraphy
+- **Hobbies**: Chinese calligraphy, classical music, coffee craft, photograph
