@@ -19,7 +19,7 @@ My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a mast
 
 My current research interests include medical imaging and radiation biology. In particular, I am interested in the development of deep learning–based image analysis methods and the investigation of radiobiological effects under modalities such as minibeam, microbeam, and FLASH. I also remain open to exploring interdisciplinary approaches that may incorporate quantum technologies (hyperpolarization MRI and etc.) in future PhD research.
 
-📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 July)
+📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 Sep)
 
 # 🔥 News
 - *July 2025*: Commenced the third semester of Master's studies.
@@ -53,7 +53,7 @@ My current research interests include medical imaging and radiation biology. In 
   *Math and Physics Tutor*  
   - A-Level Mathematics, A-Level Mathematics further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
-  - STEP, MAT, PAT
+  - Sixth Term Examination Paper (STEP), Mathematics Admissions Test (MAT), Physics Aptitude Test (PAT)
   - Chinese Physics Olympiad
   
 - *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
