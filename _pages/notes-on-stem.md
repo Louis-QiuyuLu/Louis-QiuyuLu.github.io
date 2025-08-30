@@ -20,7 +20,7 @@ As L. D. Landau once advised students of physics:
 > “As to your question concerning the study of theoretical physics, I can state only that it is necessary to learn ALL its main branches, and the sequence of study is dictated by their mutual relationship. As a method of study, I can only emphasize that you must perform all the calculations by yourself, and must not leave it to the authors of the books you have read.”  
 > – *L. D. Landau, cited in E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
 
-Nevertheless, the theoretical foundations outlined below reflect only my personal experience and biases. They are offered tentatively, for readers to consider at their own discretion.
+Nowadays one might add that you should also not leave it to ChatGPT or Deepseek. With this in mind, the theoretical foundations outlined below are presented **solely based on my personal experience and biases**. They are offered **tentatively**, as a guide for readers to explore, question, and adapt according to their own learning journey. My hope is to provide a structured starting point for those interested in developing a solid understanding of the physics underlying medical and engineering applications, without imposing a rigid path or claiming completeness.
 
 # Fundamental Commonly Covered in Undergraduate
 
