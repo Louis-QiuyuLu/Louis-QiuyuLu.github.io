@@ -9,9 +9,9 @@ author_profile: false
 
 This page is intended to provide general guidance for undergraduate students in physics, biomedical engineering, or related STEM fields who are interested in medical physics. In general, the mathematical and physical foundations required for medical physics overlap only partially with those of a typical physics undergraduate curriculum—one might even say that the Dice–Sørensen coefficient (DSC) between the two is less than 1, that is,  
 
-$$
+\[
 \text{DSC}(MP, P) = \frac{2 |MP \cap P|}{|MP| + |P|} < 1
-$$  
+\]
 
 Given that medical physics encompasses various topics, including radiation, imaging, and nuclear medicine, different emphases may arise depending on personal interests. For radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods are more important. However, based on my own experience and observations of peers who have achieved remarkable results, there is no harm in developing a broad horizon and cultivating strong problem-solving fundamentals, especially at the early stages of one’s career.
 
