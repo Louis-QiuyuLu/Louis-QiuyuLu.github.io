@@ -7,6 +7,14 @@ author_profile: false
 
 <span class='anchor' id='notes-on-stem'></span>
 
+This page is intended to provide general guidance for undergraduate students in physics, biomedical engineering, or related STEM fields who are interested in medical physics. In general, the mathematical and physical foundations required for medical physics overlap only partially with those of a typical physics undergraduate curriculum—one might even say that the Dice–Sørensen coefficient (DSC) between the two is less than 1, that is,  
+
+$$
+\text{DSC}(MP, P) = \frac{2 |MP \cap P|}{|MP| + |P|} < 1
+$$  
+
+Nevertheless, the theoretical foundations outlined below reflect only my personal experience and biases. They are offered tentatively, for readers to consider at their own discretion.
+
 # Fundamental Commonly Covered in Undergraduate
 
 - **Mathematical methods in physics**
