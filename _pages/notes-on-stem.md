@@ -13,9 +13,7 @@ $$
 \text{DSC}(MP, P) = \frac{2 |MP \cap P|}{|MP| + |P|} < 1
 $$
 
-Medical physics encompasses a wide range of topics, including radiation, imaging, and nuclear medicine. Depending on personal interests, different emphases may arise: for radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods become more important. Yet, based on my own experience and observations of peers who have achieved remarkable results, cultivating a broad horizon and solid problem-solving fundamentals early on is invaluable.
-
-As Landau once advised:
+Medical physics encompasses a wide range of topics, including radiation, imaging, and nuclear medicine. Depending on personal interests, different emphases may arise: for radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods become more important. Yet, based on my own experience and observations of peers who have achieved remarkable results, cultivating a broad horizon and solid problem-solving fundamentals early on is invaluable. As Landau once advised:
 
 > “As to your question concerning the study of theoretical physics, I can state only that it is necessary to learn ALL its main branches, and the sequence of study is dictated by their mutual relationship. As a method of study, I can only emphasize that you must perform all the calculations by yourself, and must not leave it to the authors of the books you have read.”  
 > – *L. D. Landau, cited in E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
