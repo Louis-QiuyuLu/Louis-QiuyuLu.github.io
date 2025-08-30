@@ -13,6 +13,13 @@ $$
 \text{DSC}(MP, P) = \frac{2 |MP \cap P|}{|MP| + |P|} < 1
 $$  
 
+Given that medical physics encompasses various topics, including radiation, imaging, and nuclear medicine, different emphases may arise depending on personal interests. For radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods are more important. However, based on my own experience and observations of peers who have achieved remarkable results, there is no harm in developing a broad horizon and cultivating strong problem-solving fundamentals, especially at the early stages of one’s career.
+
+As L. D. Landau once advised students of physics:
+
+> “As to your question concerning the study of theoretical physics, I can state only that it is necessary to learn ALL its main branches, and the sequence of study is dictated by their mutual relationship. As a method of study, I can only emphasize that you must perform all the calculations by yourself, and must not leave it to the authors of the books you have read.”  
+> – *L. D. Landau, cited in E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
+
 Nevertheless, the theoretical foundations outlined below reflect only my personal experience and biases. They are offered tentatively, for readers to consider at their own discretion.
 
 # Fundamental Commonly Covered in Undergraduate
