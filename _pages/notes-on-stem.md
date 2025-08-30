@@ -69,7 +69,7 @@ The theoretical foundations outlined below are presented **solely based on my pe
   - [*The Essential Physics of Medical Imaging, 3rd Edition*](https://pubmed.ncbi.nlm.nih.gov/28524933/), [*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) and [*Medical Imaging Physics, 4th Edition*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135).
 
 - **Radiobiology and radiation protection**
-  - Linear-Quadratic (LQ) model, bystander effects, ALARA principle and shielding calculations.
+  - Covers the fundamentals of radiobiology, including the Linear-Quadratic (LQ) model for cell survival, bystander effects, and the abscopal effect. Radiation protection topics include the ALARA principle, dose limits, and shielding calculations.
   - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui).
 
 # Cheatsheets, Notes and Summaries (Feedback and typo corrections are welcome!)
