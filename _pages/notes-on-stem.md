@@ -7,20 +7,27 @@ author_profile: false
 
 <span class='anchor' id='notes-on-stem'></span>
 
-This page is intended to provide general guidance for undergraduate students in physics, biomedical engineering, or related STEM fields who are interested in medical physics. In general, the mathematical and physical foundations required for medical physics overlap only partially with those of a typical physics undergraduate curriculum—one might even say that the Dice–Sørensen coefficient (DSC) between the two is less than 1, that is,  
+This page provides general guidance for undergraduate students in physics, biomedical engineering, or related STEM fields who are interested in medical physics. In general, the mathematical and physical foundations required for medical physics overlap only partially with those of a typical physics undergraduate curriculum—one might even say that the Dice–Sørensen coefficient (DSC) between the two is less than 1:
 
 $$
 \text{DSC}(MP, P) = \frac{2 |MP \cap P|}{|MP| + |P|} < 1
 $$
 
-Given that medical physics encompasses various topics, including radiation, imaging, and nuclear medicine, different emphases may arise depending on personal interests. For radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods are more important. However, based on my own experience and observations of peers who have achieved remarkable results, there is no harm in developing a broad horizon and cultivating strong problem-solving fundamentals, especially at the early stages of one’s career.
+Medical physics encompasses a wide range of topics, including radiation, imaging, and nuclear medicine. Depending on personal interests, different emphases may arise: for radiation-focused paths, nuclear physics and dosimetry are essential; for imaging-focused paths, image processing and related mathematical methods become more important. Yet, based on my own experience and observations of peers who have achieved remarkable results, cultivating a broad horizon and solid problem-solving fundamentals early on is invaluable.
 
-As L. D. Landau once advised students of physics:
+As Landau once advised:
 
 > “As to your question concerning the study of theoretical physics, I can state only that it is necessary to learn ALL its main branches, and the sequence of study is dictated by their mutual relationship. As a method of study, I can only emphasize that you must perform all the calculations by yourself, and must not leave it to the authors of the books you have read.”  
 > – *L. D. Landau, cited in E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
 
-Nowadays one might add that you should also not leave it to ChatGPT or Deepseek. With this in mind, the theoretical foundations outlined below are presented **solely based on my personal experience and biases**. They are offered **tentatively**, as a guide for readers to explore, question, and adapt according to their own learning journey. My hope is to provide a structured starting point for those interested in developing a solid understanding of the physics underlying medical and engineering applications, without imposing a rigid path or claiming completeness.
+Feynman similarly emphasized the interconnectedness of different fields:
+
+> “We make no apologies for exploring other fields, because the separation of fields is merely a human convenience. Nature is not interested in our separations, and many interesting phenomena bridge the gaps between fields.”  
+> – *R. P. Feynman, The Feynman Lectures on Physics, Vol. I, Ch. 35*
+
+Just as Zhuangzi tells the story of opening the seven orifices from Chaos(Hun-Dun), the natural world is inherently unified. Physics, as a description of nature, reflects this wholeness and cannot be fully understood if artificially fragmented into separate subjects. In learning mathematics and physics, one may also encounter the Eureka moments that emerge during rigorous study can themselves be seen as a personal **Aurora**, a glimpse of the underlying order of nature revealed through thought and calculation.
+
+The theoretical foundations outlined below are presented **solely based on my personal experience and biases**. They are offered **tentatively**, as a guide for readers to explore, question, and adapt according to their own learning journey. My hope is to provide a structured starting point for those seeking a solid understanding of the physics underlying medical and engineering applications, without imposing a rigid path or claiming completeness.
 
 # Fundamental Commonly Covered in Undergraduate
 
