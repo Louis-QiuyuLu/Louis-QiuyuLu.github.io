@@ -18,7 +18,7 @@ Medical physics encompasses a wide range of topics, including radiation, imaging
 > “As to your question concerning the study of theoretical physics, I can state only that it is necessary to learn ALL its main branches, and the sequence of study is dictated by their mutual relationship. As a method of study, I can only emphasize that you must perform all the calculations by yourself, and must not leave it to the authors of the books you have read.”  
 > – *L. D. Landau, cited in E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
 
-Feynman similarly emphasized the interconnectedness of different fields:
+Nowadays one might add that you should also not leave it to ChatGPT or Deepseek. Feynman similarly emphasized the interconnectedness of different fields:
 
 > “We make no apologies for making these excursions into other fields, because the separation of fields, as we have emphasized, is merely a human convenience, and an unnatural thing. Nature is not interested in our separations, and many of the interesting phenomena bridge the gaps between fields.”  
 > – *R. P. Feynman, The Feynman Lectures on Physics, Vol. I, Ch. 35*
