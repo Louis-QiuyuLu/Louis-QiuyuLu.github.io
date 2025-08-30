@@ -83,5 +83,5 @@ My current research interests include medical imaging and radiation biology. In 
 # 🛠 Skills & Interests
 - **Programming**: C/C++, Python, Fortran, R  
 - **Language**: Mandarin, Japanese, English (TOEFL:R30/L28/S24/W26, GRE:V152/Q170/W3.5)
-- **Applications**: MATLAB, Mathematica, COMSOL, Blender, $\LaTeX$, Adobe PS/PR/Audition
+- **Applications**: MATLAB, Mathematica, COMSOL, Blender, $\LaTeX$
 - **Hobbies**: Chinese calligraphy, classical music, coffee craft, photograph
