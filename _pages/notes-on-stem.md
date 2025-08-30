@@ -22,7 +22,7 @@ As Landau once advised:
 
 Feynman similarly emphasized the interconnectedness of different fields:
 
-> “We make no apologies for exploring other fields, because the separation of fields is merely a human convenience. Nature is not interested in our separations, and many interesting phenomena bridge the gaps between fields.”  
+> “We make no apologies for making these excursions into other fields, because the separation of fields, as we have emphasized, is merely a human convenience, and an unnatural thing. Nature is not interested in our separations, and many of the interesting phenomena bridge the gaps between fields.”  
 > – *R. P. Feynman, The Feynman Lectures on Physics, Vol. I, Ch. 35*
 
 Just as Zhuangzi tells the story of opening the seven orifices from Chaos(Hun-Dun), the natural world is inherently unified. Physics, as a description of nature, reflects this wholeness and cannot be fully understood if artificially fragmented into separate subjects. In learning mathematics and physics, one may also encounter the Eureka moments that emerge during rigorous study can themselves be seen as a personal **Aurora**, a glimpse of the underlying order of nature revealed through thought and calculation.
