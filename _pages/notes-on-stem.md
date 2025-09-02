@@ -24,9 +24,9 @@ Nowadays one might add that you should also not leave it to ChatGPT or DeepSeek.
 Just as Zhuangzi tells the story of opening the seven orifices from Chaos (Hun-Dun), the natural world is inherently unified. Physics, as a description of nature, reflects this wholeness and cannot be fully understood if artificially fragmented into separate subjects.
 
 Take the Bethe–Bloch formula 
-$
--\langle {\frac {dE}{dx}}\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon_{0}}}\right)^{2}\cdot \left(\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right)
-$
+$$
+-\left\langle {\frac {dE}{dx}}\right\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon _{0}}}\right)^{2}\cdot \left[\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right]
+$$
 
 as an example: derived in electrodynamics, it is also essential in radiation physics for describing how charged particles interact with matter. It explains the appearance of **Bragg peaks**, since $- \frac{\mathrm{d}E}{\mathrm{d}x} \propto \frac{1}{v^2}$. When the particle first enters matter at high velocity, it passes through with little energy loss; as it slows, the energy deposition rises until it culminates in the Bragg peak, just before the particle comes to rest when the kinetic energy is less than the ionization energy $I$.
 
