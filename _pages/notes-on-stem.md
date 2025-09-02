@@ -25,7 +25,7 @@ Just as Zhuangzi tells the story of opening the seven orifices from Chaos (Hun-D
 
 Take the Bethe–Bloch formula 
 $$
--\Big\langle {\frac {dE}{dx}}\Big\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \Big({\frac {e^{2}}{4\pi \varepsilon _{0}}}\Big)^{2}\cdot \bigg[\ln \Big({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\Big)-\beta ^{2}\bigg]
+-\Big\langle {\frac {dE}{dx}}\Big\rangle =
 $$
 
 as an example: derived in electrodynamics, it is also essential in radiation physics for describing how charged particles interact with matter. It explains the appearance of **Bragg peaks**, since $- \frac{\mathrm{d}E}{\mathrm{d}x} \propto \frac{1}{v^2}$. When the particle first enters matter at high velocity, it passes through with little energy loss; as it slows, the energy deposition rises until it culminates in the Bragg peak, just before the particle comes to rest when the kinetic energy is less than the ionization energy $I$.
