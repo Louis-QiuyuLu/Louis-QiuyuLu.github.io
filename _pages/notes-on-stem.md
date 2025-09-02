@@ -23,14 +23,6 @@ Nowadays one might add that you should also not leave it to ChatGPT or DeepSeek.
 
 Just as Zhuangzi tells the story of opening the seven orifices from Chaos (Hun-Dun), the natural world is inherently unified. Physics, as a description of nature, reflects this wholeness and cannot be fully understood if artificially fragmented into separate subjects.
 
-Take the Bethe–Bloch formula 
-$$
--\Big\langle {\frac{dE}{dx}}\Big\rangle ={\frac{4\pi }{m_{e}c^{2}}}\cdot {\frac{nz^{2}}{\beta ^{2}}}\cdot \Big({\frac{e^{2}}{4\pi \varepsilon _{0}}}\Big)^{2}\cdot \bigg[\ln \Big({\frac {2m_{e}c^{2}\beta^{2}}{I\cdot (1-\beta ^{2})}}\Big)-\beta ^{2}\bigg]
-
-$$
-
-as an example: derived in electrodynamics, it is also essential in radiation physics for describing how charged particles interact with matter. It explains the appearance of **Bragg peaks**, since $- \frac{\mathrm{d}E}{\mathrm{d}x} \propto \frac{1}{v^2}$. When the particle first enters matter at high velocity, it passes through with little energy loss; as it slows, the energy deposition rises until it culminates in the Bragg peak, just before the particle comes to rest when the kinetic energy is less than the ionization energy $I$.
-
 Faced with a discipline as vast and historically layered as medical physics, it is natural to feel overwhelmed—like seeing only individual trees without perceiving the forest. In my own learning, I found that progress often resembles Emergentism more than strict Reductionism: through enough examples, calculations, and physical pictures, a larger structure begins to emerge. Occasionally this process even brings what I like to call a personal **Aurora**—a fleeting glimpse of the order underlying nature, revealed through thought and calculation.
 
 The outline of theoretical foundations that follows is therefore only a personal sketch, shaped by my own biases and experiences. It is intended as a tentative guide, something that readers may adapt, expand, or even challenge in their own learning journey. My hope is that it offers a starting point for exploring the physics underlying medical and engineering applications, without claiming to be definitive or exhaustive.
