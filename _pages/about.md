@@ -46,7 +46,7 @@ My current research interests include medical imaging and radiation biology. In 
   *Deep learning based markerless tracking research project*
   - Supervisor: Prof. Paul Keall, Dr. Chandrima Sengupta, Dr. Zhuang Xiong
   
-- *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
+- *Oct 2018 - Jun 2020*, **HUST-UULM International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
   *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
   - Quantum sensing and quantum metrology technology  
   - Quantum dynamics in biophotonics  
