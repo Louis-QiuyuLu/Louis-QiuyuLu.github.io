@@ -84,23 +84,23 @@ My current research interests include medical imaging and radiation biology. In 
 
 # 🛠 Skills & Interests
 
-## Programming
+Programming
 - **C/C++**: scientific computing  
 - **Python**: deep learning architecture implementation (cGAN for medical image segmentation)  
 - **Fortran**: high-performance modeling for numerical methods  
 - **R**: statistical analysis, data visualization  
 
-## Applications
+Applications
 - **MATLAB, Mathematica**: signal processing, optimization, symbolic computation  
 - **COMSOL Multiphysics, Geant4**: FEM for EM fields, radiation transport and dosimetry  
 - **Blender, LaTeX**: 3D modeling, visualization for science communication  
 
-## Languages
+Languages
 - **Mandarin**: native  
 - **English**: fluent (TOEFL R30/L28/S24/W26; GRE V152/Q170/W3.5)  
 - **Japanese**: work proficiency  
 
-## Interests
+Interests
 - Chinese calligraphy  
 - Classical music  
 - Coffee craft  
