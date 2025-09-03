@@ -74,13 +74,13 @@ My current research interests include medical imaging and radiation biology. In 
 - *Oct 2017* National Symposium of Quantum Simulation, Shanxi University
 
 # 🎖 Honors and Awards
-- *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer.  
-- *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS.  
-- *Feb 2018* MCM/ICM, Honorable Mention.  
-- *Jan 2018* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place.  
-- *Nov 2017* University Physics Competition, Silver medal.  
-- *Oct 2017* Outstanding Undergraduates in Terms of Academic Performance.  
-- *Oct 2017* National Scholarship.
+- *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer
+- *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS
+- *Feb 2018* MCM/ICM, Honorable Mention 
+- *Jan 2018* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place
+- *Nov 2017* University Physics Competition, Silver medal
+- *Oct 2017* Outstanding Undergraduates in Terms of Academic Performance (top 0.5%)
+- *Oct 2017* National Scholarship (top 1%)
 
 # 🛠 Skills & Interests
 
