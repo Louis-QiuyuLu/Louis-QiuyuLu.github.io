@@ -41,11 +41,18 @@ My current research interests include medical imaging and radiation biology. In 
   *Major in Optoelectronic Information Engineering* (transferred to Physics), GPA: 3.86/4.00
 
   
-# 💻 Experience
+# 🔬 Research
 - *July 2025 - Present*, **Image X Institute, University of Sydney**, Sydney, Australia  
   *Deep learning based markerless tracking research project*
   - Supervisor: Prof. Paul Keall, Dr. Chandrima Sengupta, Dr. Zhuang Xiong
+  
+- *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
+  *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
+  - Quantum sensing and quantum metrology technology  
+  - Quantum dynamics in biophotonics  
 
+
+# 💻 Working
 - *Jun 2024*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
   *Radiotherapy Shadowing*
   
@@ -55,11 +62,6 @@ My current research interests include medical imaging and radiation biology. In 
   - AP Precalculus, AP Calculus, AP Physics  
   - Sixth Term Examination Paper (STEP), Mathematics Admissions Test (MAT), Physics Aptitude Test (PAT)
   - Chinese Physics Olympiad
-  
-- *Oct 2018 - Jun 2020*, **International Joint Laboratory on Quantum Sensing and Quantum Metrology**, Wuhan, China  
-  *Undergraduate Research Assistant*, [Lab Website](https://www.iqsqm.com/)  
-  - Quantum sensing and quantum metrology technology  
-  - Quantum dynamics in biophotonics  
 
 # 📝 Publications 
 - [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, Nathan GoldAman, Jianming Cai, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
@@ -81,7 +83,25 @@ My current research interests include medical imaging and radiation biology. In 
 - *Oct 2017* National Scholarship.
 
 # 🛠 Skills & Interests
-- **Programming**: C/C++, Python, Fortran, R  
-- **Language**: Mandarin, Japanese, English (TOEFL:R30/L28/S24/W26, GRE:V152/Q170/W3.5)
-- **Applications**: MATLAB, Mathematica, COMSOL, Blender, $\LaTeX$
-- **Hobbies**: Chinese calligraphy, classical music, coffee craft, photograph
+
+## Programming
+- **C/C++**: scientific computing  
+- **Python**: deep learning architecture implementation (cGAN for medical image segmentation)  
+- **Fortran**: high-performance modeling for numerical methods  
+- **R**: statistical analysis, data visualization  
+
+## Applications
+- **MATLAB, Mathematica**: signal processing, optimization, symbolic computation  
+- **COMSOL Multiphysics, Geant4**: FEM for EM fields, radiation transport and dosimetry  
+- **Blender, LaTeX**: 3D modeling, visualization for science communication  
+
+## Languages
+- **Mandarin**: native  
+- **English**: fluent (TOEFL R30/L28/S24/W26; GRE V152/Q170/W3.5)  
+- **Japanese**: work proficiency  
+
+## Interests
+- Chinese calligraphy  
+- Classical music  
+- Coffee craft  
+- Photography
