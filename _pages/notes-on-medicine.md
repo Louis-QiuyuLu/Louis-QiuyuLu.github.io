@@ -25,7 +25,7 @@ author_profile: false
   - Relevant references: *TBC*
 
 
-# Specialized Areas in Medical Imaging and Oncology
+# Specialized Areas
 
 - **Clinical Oncology(for Division of Radiation Oncology)**  
   - Tumor biology and radiosensitivity. Cancer classification, staging, and treatment modalities. Radiotherapy principles and treatment planning.
