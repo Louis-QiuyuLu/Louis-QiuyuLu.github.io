@@ -1,5 +1,5 @@
 ---
-permalink: /Pathways/
+permalink: /pathways/
 title: "Pathways"
 excerpt: "Miscellaneous thoughts and topics."
 author_profile: false
