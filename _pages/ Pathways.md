@@ -1,6 +1,6 @@
 ---
-permalink: /others/
-title: "Others"
+permalink: /Pathways/
+title: "Pathways"
 excerpt: "Miscellaneous thoughts and topics."
 author_profile: false
 ---
