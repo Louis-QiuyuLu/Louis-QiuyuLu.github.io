@@ -40,7 +40,7 @@ The outline of theoretical foundations that follows is therefore only a personal
 - **Quantum mechanics**
 
   - <p align="center">
-    <img src="images/QM_DND.jpg" alt="Quantum mechanics: DND" width="50%">
+    <img src="../images/QM_DND.jpg" alt="Quantum mechanics: DND" width="50%">
   </p>
 
   - Knowledge until second quantization (so-called advanced quantum mechanics) is enough. Most problems in medical physics deal with atomic-level fine-structure effects, such as spin-orbit coupling and relativistic corrections. QFT is unnecessary unless calculating exact reaction cross-sections, secondary electron production in radiotherapy or higher-order corrections in positron annihilation processes.
