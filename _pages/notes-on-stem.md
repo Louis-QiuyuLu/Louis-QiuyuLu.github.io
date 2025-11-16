@@ -38,6 +38,11 @@ The outline of theoretical foundations that follows is therefore only a personal
   - For practical applications, open-source toolkits, examples and software manuals are often useful.
 
 - **Quantum mechanics**
+
+  - <p align="center">
+    <img src="images/QM_DND.jpg" alt="Quantum mechanics: DND" width="50%">
+  </p>
+
   - Knowledge until second quantization (so-called advanced quantum mechanics) is enough. Most problems in medical physics deal with atomic-level fine-structure effects, such as spin-orbit coupling and relativistic corrections. QFT is unnecessary unless calculating exact reaction cross-sections, secondary electron production in radiotherapy or higher-order corrections in positron annihilation processes.
   - [*Griffiths*](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E#overview), [*Sakurai*](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC#overview) are both accessible for beginners. Griffiths is very readable and focuses on building intuition through clear examples, making it easier to grasp the fundamental concepts. Sakurai is a bit more formal and abstract but provides a solid foundation for understanding modern quantum mechanics. Refer to [*Cohen-Tannoudji*](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713) for details, it goes deeper into both the formalism and applications, and the worked examples are very helpful if you want to really see the methods in action.
 
