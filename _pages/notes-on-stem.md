@@ -83,7 +83,6 @@ The outline of theoretical foundations that follows is therefore only a personal
 - **Radiation physics:**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
 - **Medical imaging:**  [PDF](https://louis-qiuyulu.github.io/summary-of-MI.pdf)
 - **Physics of radiotherapy:**  [PDF](https://louis-qiuyulu.github.io/summary-of-RT.pdf)
-- **Radiobiology and radiation protection:**  [PDF](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
