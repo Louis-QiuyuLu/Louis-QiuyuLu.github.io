@@ -27,7 +27,7 @@ My current research interests include medical imaging and radiation biology. In 
 
 # 📖 Education
 - *Jul 2024 – Present*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), WAM: 90.6, [transcript](https://www.myequals.net/sharelink/820fa7e9-c5e3-4aa1-8652-503701d1123c/5b6dc236-383f-4f26-aa59-356543bf9f11)
+  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited)
 
 - *Oct 2020 – Mar 2021*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
   *Master’s Program in Physics* (withdrew)
@@ -42,6 +42,10 @@ My current research interests include medical imaging and radiation biology. In 
 
   
 # 🔬 Research
+- *Nov 2025 - *, **Centre for Medical Radiation Physics, University of Wollongong**, Wollongong, Australia  
+  *Summer research scholarship: LETd optimisation of proton therapy using FIONA treatment planning system at Paul Sherrer Institute*
+  - Supervisor: Prof. Anatoly Rozenfeld, Dr. Thuy Linh Tran
+
 - *July 2025 - Sep 2025*, **Image X Institute, University of Sydney**, Sydney, Australia  
   *Deep learning based markerless tracking research project*
   - Supervisor: Prof. Paul Keall, Dr. Chandrima Sengupta, Dr. Zhuang Xiong
@@ -55,6 +59,7 @@ My current research interests include medical imaging and radiation biology. In 
 # 💻 Working
 - *Jun 2024*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
   *Radiotherapy Shadowing*
+  - Supervisor: Prof. Yang Wang
   
 - *Jan 2022 - Jan 2024*, **Educational institution**, Shenzhen, China  
   *Math and Physics Tutor*  
