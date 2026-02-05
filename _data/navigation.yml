@@ -1,0 +1,11 @@
+# main links links
+main:
+
+  - title: "Notes on STEM"
+    url: "/notes-on-stem"
+
+  - title: "Notes on Medicine"
+    url: "/notes-on-medicine"
+
+  - title: "Pathways"
+    url: "/pathways"
