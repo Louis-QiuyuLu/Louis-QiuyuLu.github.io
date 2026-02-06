@@ -76,22 +76,22 @@ My current research interests include medical imaging and radiation biology. In 
 - [Experimental measurement of the quantum geometric tensor using coupled qubits in diamond](https://doi.org/10.1093/nsr/nwz193), Min Yu, Pengcheng Yang, Musang Gong, Qingyun Cao, **Qiuyu Lu**, Haibin Liu, Shaoliang Zhang, Martin B Plenio, Fedor Jelezko, Tomoki Ozawa, Nathan GoldAman, Jianming Cai, *National Science Review*, **Volume 7, Issue 2**, February 2020, Pages 254–260.
 
 # 🗓️ Conferences
-- *Jan 2026* Space Qualification 2026, Sydney
-- *Feb 2025* MMND-ITRO 2025, Sydney
-- *Mar 2019* American Physical Society March Meeting, Boston.  
-- *Jan 2019* Many Body Entanglement & Topological Matter Winter School, SUSTech  
-- *Dec 2017* Chinese Physical Society Annual Meeting, Wuhan University 
-- *Oct 2017* National Symposium of Quantum Simulation, Shanxi University
+- *Jan 2026*, Space Qualification 2026, Sydney
+- *Feb 2025*, MMND-ITRO 2025, Sydney
+- *Mar 2019*, American Physical Society March Meeting, Boston.  
+- *Jan 2019*, Many Body Entanglement & Topological Matter Winter School, SUSTech  
+- *Dec 2017*, Chinese Physical Society Annual Meeting, Wuhan University 
+- *Oct 2017*, National Symposium of Quantum Simulation, Shanxi University
 
 # 🎖 Honors and Awards
-- *Dec 2025* UOW Summer research scholarship
-- *Dec 2020* Online-Germany Physics Tournament 2020, By20, Best reviewer
-- *Mar 2018* Lecture on Scientific Big Data, PARIS-SUD HONORS
-- *Feb 2018* MCM/ICM, Honorable Mention 
-- *Jan 2018* International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place
-- *Nov 2017* University Physics Competition, Silver medal
-- *Oct 2017* Outstanding Undergraduates in Terms of Academic Performance (top 0.5%)
-- *Oct 2017* National Scholarship (top 1%)
+- *Dec 2025*, UOW Summer research scholarship
+- *Dec 2020*, Online-Germany Physics Tournament 2020, By20, Best reviewer
+- *Mar 2018*, Lecture on Scientific Big Data, PARIS-SUD HONORS
+- *Feb 2018*, MCM/ICM, Honorable Mention 
+- *Jan 2018*, International Theoretical Physics Olympiad for Undergraduate Students, Tied 1st place
+- *Nov 2017*, University Physics Competition, Silver medal
+- *Oct 2017*, Outstanding Undergraduates in Terms of Academic Performance (top 0.5%)
+- *Oct 2017*, National Scholarship (top 1%)
 
 # 🛠 Skills & Interests
 
