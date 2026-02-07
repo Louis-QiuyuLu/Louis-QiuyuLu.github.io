@@ -58,18 +58,18 @@ My current research interests include medical imaging and radiation biology. In 
 
 # 💻 Working
 - *Jun 2024*, **Jinshazhou Hospital of Guangzhou University of Chinese Medicine**, Guangzhou, China  
-  *Radiotherapy Shadowing*
+  - *Radiotherapy Shadowing*
   - Supervisor: Prof. Yang Wang
   
 - *Jan 2022 - Jan 2024*, **Educational institution**, Shenzhen, China  
-  *Math and Physics Tutor*  
+  - *Math and Physics Tutor*  
   - A-Level Mathematics, A-Level Mathematics further, A-Level Physics  
   - AP Precalculus, AP Calculus, AP Physics  
   - Sixth Term Examination Paper (STEP), Mathematics Admissions Test (MAT), Physics Aptitude Test (PAT)
   - Chinese Physics Olympiad
 
 - *Sep 2017 - Jan 2018*, **Starbucks**, Wuhan, China
-  *Part-time Barista*
+  - *Part-time Barista*
 
   
 # 📝 Publications 
