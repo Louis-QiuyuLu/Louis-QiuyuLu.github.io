@@ -11,40 +11,61 @@ author_profile: false
 
 ## Australia
 
-The pathway to becoming a clinical medical physicist in Australia follows a structured and competitive process:
+In Australia, the process is regulated by the **Australasian College of Physical Scientists & Engineers in Medicine (ACPSEM)** and follows these detailed steps:
 
-1. **Obtain an ACPSEM-accredited Master's Degree in Medical Physics**
-   - A master's degree in medical physics from an **ACPSEM (Australasian College of Physical Scientists & Engineers in Medicine)** accredited program is required.
-   - Some candidates pursue a PhD for stronger academic credentials.
+1. **Earn an ACPSEM-Accredited Graduate Degree**
+    * **Standard Pathway:** An **ACPSEM-accredited Master's degree** in Medical Physics is the standard requirement for entry.
+    * **Undergraduate Prerequisite:** Candidates typically require a Bachelor of Science (BSc) with a major in **Physics**.
+    * **PhD Advantage:** While not mandatory, holding a **PhD** in physics or a related field is highly advantageous for securing competitive Registrar positions.
+    * **Alternative (Coursework Required):** Candidates with a non-accredited PhD or physics degree must still complete the required accredited coursework (often via a Graduate Diploma or concurrent enrollment during training) to meet educational standards.
 
 2. **Enter the TEAP (Training, Education, and Assessment Program) Registrar Program**
-   - TEAP is the clinical training pathway required to become a certified medical physicist.
-   - Admission is highly competitive, and many successful applicants have a PhD or even postdoctoral research experience.
-   - The program typically takes **3 years** and involves structured clinical training under supervision.
+    * **The TEAP Pathway:** The **Training, Education and Assessment Program (TEAP)** is the clinical residency equivalent. Candidates must be employed as a **Registrar** in an ACPSEM-accredited clinical department to participate.
+    * **Duration:** The program typically takes **3 to 5 years** to complete (Standard is 3 years full-time).
+        * If a candidate has not yet completed their accredited Master's degree, the training time is extended to accommodate concurrent study.
+    * **Specialty Streams:** The TEAP training is divided into **three** primary specialty streams:
+        1.  **Radiation Oncology Medical Physics (ROMP)**
+        2.  **Diagnostic Imaging Medical Physics (DIMP), specialising in Nuclear Medicine Physics or Radiology Medical Physics or both**
+        3.  **Radiopharmaceutical Science (RPS)**
+    * **Components:** Training involves supervised clinical work, submission of a **Clinical Portfolio** (showing competence in specific modules), and progressive assessments.
 
 3. **Qualify as a Certified Medical Physicist**
-   - After completing TEAP, candidates become **ACPSEM-certified medical physicists** and can practice clinically.
+    * **Assessments:** The certification process is rigorous and typically includes:
+        * **Written Examinations:** Testing theoretical and clinical knowledge of the chosen specialty.
+        * **Oral/Practical Exams:** A final "Safe to Practice" assessment to verify clinical judgment and safety.
+    * **Outcome:** Upon successful completion, the candidate is awarded **ACPSEM Certification** and is eligible to be listed on the **ACPSEM Register of Qualified Medical Physics Specialists**.
 
 ---
 
 ## USA
 
-In the United States, the process is regulated by the **American Board of Radiology (ABR)** and follows these steps:
+In the United States, the process is regulated by the **American Board of Radiology (ABR)** and follows these detailed steps:
 
-1. **Earn a CAMPEP-Accredited Graduate Degree in Medical Physics**
-   - A master's or PhD degree from a **CAMPEP (Commission on Accreditation of Medical Physics Educational Programs)** accredited program is required.
-   - A PhD is often preferred for competitive residency placements.
+1.  **Earn a CAMPEP-Accredited Graduate Degree or Certificate**
+    * **Standard Pathway:** A master's (MS) or PhD degree from a **CAMPEP (Commission on Accreditation of Medical Physics Educational Programs)** accredited graduate program in Medical Physics is required.
+    * **Certificate Pathway:** Candidates who already hold a PhD in physics, related sciences, or engineering (with a physics minor equivalent) can complete a **CAMPEP-accredited certificate program** (minimum 1 year).
+    * **Required Coursework:** Regardless of the degree path, candidates must complete the following 6 CAMPEP-required courses:
+        1.  Radiological Physics and Dosimetry
+        2.  Radiation Protection and Radiation Safety
+        3.  Fundamental of Imaging in Medicine
+        4.  Radiobiology
+        5.  Anatomy and Physiology
+        6.  Radiation Therapy Physics
+    * **Foreign Degrees (Alternative):** Candidates with an MS or PhD from a foreign university must submit **proof of equivalency** of education. Note that certificate programs from foreign countries are not accepted.
+    * *Milestone:* After 2012, candidates from the United States are eligible to take **Part 1** of the ABR examination upon completing these educational requirements.
 
-2. **Complete a Medical Physics Residency Program**
-   - A **two-year clinical residency** in an accredited program is required for board eligibility.
-   - Residency programs are highly competitive, and some applicants enter through alternative pathways (e.g., postdoctoral fellowships with clinical components).
+2.  **Complete a Medical Physics Residency Program**
+    * **Standard Residency:** Completion of a **CAMPEP medical physics residency** ranging from **2 to 3 years** is required.
+        * In a 3-year program, 1 year should be dedicated to research and development, with a minimum of **2 years of clinical training**.
+    * **Alternative Training:** An alternative involves **3 years of supervised training** from a CAMPEP residency program that aligns with residency requirements. This path implies 3 years of guaranteed employment where the employer must provide a visa.
+    * *Milestone:* Since 2012, candidates are eligible to take **ABR Part 2** only after completing their residency. Alternative pathway candidates must wait until the completion of their program to take Part 2.
 
-3. **Pass the ABR Certification Exams**
-   - The **ABR (American Board of Radiology) exams** consist of three parts:
-     - **Part 1**: General medical physics and clinical foundations (can be taken after a graduate degree).
-     - **Part 2**: Specialty-specific clinical physics knowledge (after residency training).
-     - **Part 3 (Oral Exam)**: Comprehensive assessment of clinical competence.
-   - Board certification is essential for practicing as a qualified medical physicist in the US.
+3.  **Pass the ABR Certification Exams & Become Qualified**
+    * The **ABR (American Board of Radiology) exams** consist of three parts:
+        * **Part 1**: General medical physics and clinical foundations (taken after education).
+        * **Part 2**: Specialty-specific clinical physics knowledge (taken after residency).
+        * **Part 3 (Oral Exam)**: A comprehensive assessment of clinical competence taken after successful completion of Part 2.
+    * **Outcome:** Upon successfully completing Part 3, the candidate is recognized as a **Qualified Medical Physicist**, which is a common requirement for many state regulatory bodies to practice medical physics.
 
 ---
 
