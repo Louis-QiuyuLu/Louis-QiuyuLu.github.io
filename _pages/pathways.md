@@ -7,7 +7,7 @@ author_profile: false
 
 <span class='anchor' id='others'></span>
 
-# Pathways to Clinical Medical Physics for STEM Undergraduates (Australia & USA)
+# Pathways to Clinical Medical Physics for STEM Undergraduates (Australia, Japan and USA)
 
 ## Australia
 
@@ -35,6 +35,33 @@ In Australia, the process is regulated by the **Australasian College of Physical
         * **Oral/Practical Exams:** A final "Safe to Practice" assessment to verify clinical judgment and safety.
     * **Outcome:** Upon successful completion, the candidate is awarded **ACPSEM Certification** and is eligible to be listed on the **ACPSEM Register of Qualified Medical Physics Specialists**.
 
+---
+
+## Japan
+
+In Japan, the certification process is regulated by the **Japanese Board for Medical Physicist Qualification (JBMP)** and generally follows these steps:
+
+1.  **Earn a Graduate Degree in Medical Physics**
+    * **Accredited Program:** A **Master's or PhD degree** from a **JBMP-accredited** medical physics education program is the standard pathway.
+    * **Non-Accredited Program:** Candidates with a graduate degree in science, engineering, or health sciences from a non-accredited program are also eligible but may face different clinical experience requirements.
+    * *Note:* The JBMP accredits specific Master's and Doctoral courses to ensure they meet the curriculum guidelines.
+
+2.  **Pass the JBMP Certification Examination**
+    * Candidates must pass the **Medical Physicist Certification Examination** administered by the JBMP.
+    * **Language:** The examination is conducted in **Japanese**, so proficiency in the language is essential.
+    * **Timing:** Students in accredited programs may often take the exam after being enrolled for a specific period (e.g., at least one year in a Master's program) or upon graduation.
+
+3.  **Complete Clinical Training & Performance Evaluation**
+    * **Clinical Experience:** Candidates must complete a specified period of **clinical training**.
+        * For graduates of **JBMP-accredited** Master's programs, the required clinical experience is typically **2 years**.
+        * For those from non-accredited programs, the requirement is often longer (e.g., 3 years).
+    * **Performance Criteria:** In addition to time served, candidates must achieve a specific **performance score** based on their clinical activities and competence.
+    * *Residency:* While clinical experience can be gained through employment, the JBMP has also established an accreditation system for medical physics **residency programs** to standardize this training.
+
+4.  **Obtain JBMP Accreditation**
+    * **Final Certification:** After successfully passing the certification examination **and** fulfilling the clinical training/performance criteria, the candidate applies for accreditation.
+    * **Outcome:** Upon approval, the candidate is recognized as a **Certified Medical Physicist** by the JBMP.
+  
 ---
 
 ## USA
