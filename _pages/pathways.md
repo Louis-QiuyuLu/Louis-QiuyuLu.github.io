@@ -53,7 +53,7 @@ In Japan, the certification process is regulated by the **一般財団法人医�
 
 3.  **Complete Clinical Training & Performance Evaluation**
     * **Clinical Experience:** Candidates must complete a specified period of **clinical training**.
-        * For graduates of **JBMP-accredited** Master's programs, the required clinical experience is typically **2 years**.
+        * For graduates of **JSMP-accredited** Master's programs, the required clinical experience is typically **2 years**.
         * For those from non-accredited programs, the requirement is often longer (e.g., 3 years).
     * **Performance Criteria:** In addition to time served, candidates must achieve a specific **performance score** based on their clinical activities and competence.
     * *Residency:* While clinical experience can be gained through employment, the JBMP has also established an accreditation system for medical physics **residency programs** to standardize this training.
