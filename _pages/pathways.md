@@ -64,8 +64,10 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
     * **Outcome:** Upon approval, the candidate is recognized as a **Certified Medical Physicist** by the JBMP.
   
 <figure style="text-align: center;">
-  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="Japan Passing Rate" style="max-width: 100%; height: auto;">
-  <figcaption>
+  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" 
+       alt="Japan Passing Rate" 
+       style="width: 60%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
     Figure: Japan Medical Physicist Certification Passing Rate from 
     <a href="https://www.jbmp.org/information/data/" target="_blank">JBMP</a>.
   </figcaption>
@@ -105,14 +107,17 @@ In the United States, the process is regulated by the **American Board of Radiol
     * **Outcome:** Upon successfully completing Part 3, the candidate is recognized as a **Qualified Medical Physicist**, which is a common requirement for many state regulatory bodies to practice medical physics.
 
 <figure style="text-align: center;">
-  <img src="https://Louis-QiuyuLu.github.io/images/USA_PassingRate.jpeg" alt="ABR Passing Rate" style="max-width: 100%; height: auto;">
-  <figcaption>
+  <img src="https://Louis-QiuyuLu.github.io/images/USA_PassingRate.jpeg" 
+       alt="ABR Passing Rate" 
+       style="width: 60%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
     Figure: ABR Passing Rate from 
     <a href="https://doi.org/10.1016/j.ijrobp.2025.09.041" target="_blank">
       The Medical Physicist Workforce Shortage: Putting the Cart in Front of the Horse
     </a>.
   </figcaption>
 </figure>
+
 
 ---
 
