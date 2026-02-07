@@ -39,7 +39,7 @@ In Australia, the process is regulated by the **Australasian College of Physical
 
 ## Japan
 
-In Japan, the certification process is regulated by the **一般財団法人医学物理士認定機構 Japanese Board for Medical Physicist Qualification (JBMP)** and generally follows these steps:
+In Japan, the certification process is regulated by the **Japanese Board for Medical Physicist Qualification (一般財団法人医学物理士認定機構, JBMP)** and generally follows these steps:
 
 1.  **Earn a Graduate Degree in Medical Physics**
     * **Accredited Program:** A **Master's or PhD degree** from a **JBMP-accredited** [medical physics education program](https://www.jbmp.org/course_educational/decision/) is the standard pathway.
@@ -50,6 +50,7 @@ In Japan, the certification process is regulated by the **一般財団法人医�
     * Candidates must pass the **Medical Physicist Certification Examination** administered by the JBMP.
     * **Language:** The examination is conducted in **Japanese**, so proficiency in the language is essential.
     * **Timing:** Students in accredited programs may often take the exam after being enrolled for a specific period (e.g., at least one year in a Master's program) or upon graduation.
+    * Currently, Japan’s medical physicist certification focuses only on radiation therapy(放射線治療分野), because most practitioners specialize in treatment, and although the importance of diagnostic imaging(診断) and nuclear medicine(核医学) is internationally recognized, domestic needs currently limit certification to therapeutic medical physicists(治療専門医学物理士).
 
 3.  **Complete Clinical Training & Performance Evaluation**
     * **Clinical Experience:** Candidates must complete a specified period of **clinical training**.
