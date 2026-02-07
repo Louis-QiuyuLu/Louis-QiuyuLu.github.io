@@ -104,7 +104,7 @@ In the United States, the process is regulated by the **American Board of Radiol
         * **Part 3 (Oral Exam)**: A comprehensive assessment of clinical competence taken after successful completion of Part 2.
     * **Outcome:** Upon successfully completing Part 3, the candidate is recognized as a **Qualified Medical Physicist**, which is a common requirement for many state regulatory bodies to practice medical physics.
 
-<<figure style="text-align: center;">
+<figure style="text-align: center;">
   <img src="https://Louis-QiuyuLu.github.io/images/USA_PassingRate.jpeg" alt="ABR Passing Rate" style="max-width: 100%; height: auto;">
   <figcaption>
     Figure: ABR Passing Rate from 
