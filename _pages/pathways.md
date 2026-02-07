@@ -14,7 +14,7 @@ author_profile: false
 In Australia, the process is regulated by the **Australasian College of Physical Scientists & Engineers in Medicine (ACPSEM)** and follows these detailed steps:
 
 1. **Earn an ACPSEM-Accredited Graduate Degree**
-    * **Standard Pathway:** An **ACPSEM-accredited Master's degree** in Medical Physics is the standard requirement for entry.
+    * **Standard Pathway:** An **ACPSEM-accredited Master's degree** of [accredited graduate program](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) in Medical Physics is the standard requirement for entry.
     * **Undergraduate Prerequisite:** Candidates typically require a Bachelor of Science (BSc) with a major in **Physics**.
     * **PhD Advantage:** While not mandatory, holding a **PhD** in physics or a related field is highly advantageous for securing competitive Registrar positions.
     * **Alternative (Coursework Required):** Candidates with a non-accredited PhD or physics degree must still complete the required accredited coursework (often via a Graduate Diploma or concurrent enrollment during training) to meet educational standards.
@@ -42,7 +42,7 @@ In Australia, the process is regulated by the **Australasian College of Physical
 In Japan, the certification process is regulated by the **一般財団法人医学物理士認定機構 Japanese Board for Medical Physicist Qualification (JBMP)** and generally follows these steps:
 
 1.  **Earn a Graduate Degree in Medical Physics**
-    * **Accredited Program:** A **Master's or PhD degree** from a **JBMP-accredited** medical physics education program is the standard pathway.
+    * **Accredited Program:** A **Master's or PhD degree** from a **日本医学物理学会 Japanese Society of Medical Physics JSMP-accredited** [medical physics education program](https://www.jsmp.org/medicalphysicstrainingcourse/) is the standard pathway.
     * **Non-Accredited Program:** Candidates with a graduate degree in science, engineering, or health sciences from a non-accredited program are also eligible but may face different clinical experience requirements.
     * *Note:* The JBMP accredits specific Master's and Doctoral courses to ensure they meet the curriculum guidelines.
 
@@ -69,7 +69,7 @@ In Japan, the certification process is regulated by the **一般財団法人医�
 In the United States, the process is regulated by the **American Board of Radiology (ABR)** and follows these detailed steps:
 
 1.  **Earn a CAMPEP-Accredited Graduate Degree or Certificate**
-    * **Standard Pathway:** A master's (MS) or PhD degree from a **CAMPEP (Commission on Accreditation of Medical Physics Educational Programs)** accredited graduate program in Medical Physics is required.
+    * **Standard Pathway:** A master's (MS) or PhD degree from a **CAMPEP (Commission on Accreditation of Medical Physics Educational Programs)** [accredited graduate program](https://campep.org/campeplstgrad.asp) in Medical Physics is required.
     * **Certificate Pathway:** Candidates who already hold a PhD in physics, related sciences, or engineering (with a physics minor equivalent) can complete a **CAMPEP-accredited certificate program** (minimum 1 year).
     * **Required Coursework:** Regardless of the degree path, candidates must complete the following 6 CAMPEP-required courses:
         1.  Radiological Physics and Dosimetry
