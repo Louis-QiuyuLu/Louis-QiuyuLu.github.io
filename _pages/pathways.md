@@ -63,11 +63,11 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
     * **Final Certification:** After successfully passing the certification examination **and** fulfilling the clinical training/performance criteria, the candidate applies for accreditation.
     * **Outcome:** Upon approval, the candidate is recognized as a **Certified Medical Physicist** by the JBMP.
   
-
-<figure>
-  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="Japan Passing Rate">
-  <figcaption>Figure: Japan Medical Physicist Certification Passing Rate</figcaption>
+<figure style="text-align: center;">
+  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="Japan Passing Rate" style="max-width: 100%; height: auto;">
+  <figcaption>Figure: Japan Medical Physicist Certification Passing Rate from [JBMP](https://www.jbmp.org/information/data/). </figcaption>
 </figure>
+
   
 ---
 
@@ -101,6 +101,10 @@ In the United States, the process is regulated by the **American Board of Radiol
         * **Part 3 (Oral Exam)**: A comprehensive assessment of clinical competence taken after successful completion of Part 2.
     * **Outcome:** Upon successfully completing Part 3, the candidate is recognized as a **Qualified Medical Physicist**, which is a common requirement for many state regulatory bodies to practice medical physics.
 
+<figure style="text-align: center;">
+  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="ABR Passing Rate" style="max-width: 100%; height: auto;">
+  <figcaption>Figure: ABR Passing Rate from [The Medical Physicist Workforce Shortage:Putting the Cart in Front of the Horse](https://doi.org/10.1016/j.ijrobp.2025.09.041). </figcaption>
+</figure>
 ---
 
 ## License  
