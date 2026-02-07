@@ -65,7 +65,10 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
   
 <figure style="text-align: center;">
   <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="Japan Passing Rate" style="max-width: 100%; height: auto;">
-  <figcaption>Figure: Japan Medical Physicist Certification Passing Rate from [JBMP](https://www.jbmp.org/information/data/). </figcaption>
+  <figcaption>
+    Figure: Japan Medical Physicist Certification Passing Rate from 
+    <a href="https://www.jbmp.org/information/data/" target="_blank">JBMP</a>.
+  </figcaption>
 </figure>
 
   
@@ -101,10 +104,16 @@ In the United States, the process is regulated by the **American Board of Radiol
         * **Part 3 (Oral Exam)**: A comprehensive assessment of clinical competence taken after successful completion of Part 2.
     * **Outcome:** Upon successfully completing Part 3, the candidate is recognized as a **Qualified Medical Physicist**, which is a common requirement for many state regulatory bodies to practice medical physics.
 
-<figure style="text-align: center;">
-  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="ABR Passing Rate" style="max-width: 100%; height: auto;">
-  <figcaption>Figure: ABR Passing Rate from [The Medical Physicist Workforce Shortage:Putting the Cart in Front of the Horse](https://doi.org/10.1016/j.ijrobp.2025.09.041). </figcaption>
+<<figure style="text-align: center;">
+  <img src="https://Louis-QiuyuLu.github.io/images/USA_PassingRate.jpeg" alt="ABR Passing Rate" style="max-width: 100%; height: auto;">
+  <figcaption>
+    Figure: ABR Passing Rate from 
+    <a href="https://doi.org/10.1016/j.ijrobp.2025.09.041" target="_blank">
+      The Medical Physicist Workforce Shortage: Putting the Cart in Front of the Horse
+    </a>.
+  </figcaption>
 </figure>
+
 ---
 
 ## License  
