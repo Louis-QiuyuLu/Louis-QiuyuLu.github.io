@@ -39,7 +39,7 @@ In Australia, the process is regulated by the **Australasian College of Physical
 
 ## Japan
 
-In Japan, the certification process is regulated by the **Japanese Board for Medical Physicist Qualification (JBMP)** and generally follows these steps:
+In Japan, the certification process is regulated by the **一般財団法人医学物理士認定機構 Japanese Board for Medical Physicist Qualification (JBMP)** and generally follows these steps:
 
 1.  **Earn a Graduate Degree in Medical Physics**
     * **Accredited Program:** A **Master's or PhD degree** from a **JBMP-accredited** medical physics education program is the standard pathway.
@@ -86,15 +86,6 @@ In the United States, the process is regulated by the **American Board of Radiol
         * In a 3-year program, 1 year should be dedicated to research and development, with a minimum of **2 years of clinical training**.
     * **Alternative Training:** An alternative involves **3 years of supervised training** from a CAMPEP residency program that aligns with residency requirements. This path implies 3 years of guaranteed employment where the employer must provide a visa.
     * *Milestone:* Since 2012, candidates are eligible to take **ABR Part 2** only after completing their residency. Alternative pathway candidates must wait until the completion of their program to take Part 2.
-
-<figure>
-  <img src="/images/ABRPassingRate.png" alt="ABR Exam Passing Rates" style="width:100%; max-width:800px;">
-  <figcaption style="font-size: 0.9em; color: #555; margin-top: 10px; font-style: italic;">
-    <strong>Figure 1: ABR Exam Passing Rates.</strong><br>
-    Source: Das IJ, Weisman M, Bates JE, et al. <em>The Medical Physicist Workforce Shortage: Putting the Cart in Front of the Horse</em>. Int J Radiat Oncol Biol Phys. 2026;124(3):581-584. <a href="https://doi.org/10.1016/j.ijrobp.2025.09.041">doi:10.1016/j.ijrobp.2025.09.041</a>
-  </figcaption>
-</figure>
-
 
 3.  **Pass the ABR Certification Exams & Become Qualified**
     * The **ABR (American Board of Radiology) exams** consist of three parts:
