@@ -87,6 +87,9 @@ In the United States, the process is regulated by the **American Board of Radiol
     * **Alternative Training:** An alternative involves **3 years of supervised training** from a CAMPEP residency program that aligns with residency requirements. This path implies 3 years of guaranteed employment where the employer must provide a visa.
     * *Milestone:* Since 2012, candidates are eligible to take **ABR Part 2** only after completing their residency. Alternative pathway candidates must wait until the completion of their program to take Part 2.
 
+![ABR Exam Passing Rates](/images/ABRPassingRate.png)
+*ABR Exam Passing Rates. Source: Das IJ, Weisman M, Bates JE, et al. The Medical Physicist Workforce Shortage: Putting the Cart in Front of the Horse. Int J Radiat Oncol Biol Phys. 2026;124(3):581-584. doi:10.1016/j.ijrobp.2025.09.041*
+
 3.  **Pass the ABR Certification Exams & Become Qualified**
     * The **ABR (American Board of Radiology) exams** consist of three parts:
         * **Part 1**: General medical physics and clinical foundations (taken after education).
