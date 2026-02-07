@@ -63,6 +63,12 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
     * **Final Certification:** After successfully passing the certification examination **and** fulfilling the clinical training/performance criteria, the candidate applies for accreditation.
     * **Outcome:** Upon approval, the candidate is recognized as a **Certified Medical Physicist** by the JBMP.
   
+
+<figure>
+  <img src="https://Louis-QiuyuLu.github.io/images/Japan_PassingRate.jpeg" alt="Japan Passing Rate">
+  <figcaption>Figure: Japan Medical Physicist Certification Passing Rate</figcaption>
+</figure>
+  
 ---
 
 ## USA
