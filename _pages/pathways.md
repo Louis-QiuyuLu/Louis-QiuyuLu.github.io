@@ -77,17 +77,14 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 
 ## China
 
-<p align="center">
-  <a href="https://louis-qiuyulu.github.io/images/index.html" target="_blank">
-    <img src="https://louis-qiuyulu.github.io/images/map_preview.png" width="80%" alt="Click to View Interactive Map">
-  </a>
-  <br>
-  <b>📊 <a href="https://louis-qiuyulu.github.io/images/index.html" target="_blank"> (Click here to open Interactive Map)</a></b>
-  <br>
-  <font size="2" color="#555">
-    Figure: Global distribution of particle therapy facilities. (Interactive version hosted on GitHub Pages)
-  </font>
-</p>
+<figure style="text-align: center;">
+  <img src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
+       alt="Particle Therapy Facilities World Map" 
+       style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group  <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> data (September 2025).
+  </figcaption>
+</figure>
 
 In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
 
