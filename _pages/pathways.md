@@ -77,12 +77,18 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 
 ## China
 
-<figure style="text-align: center;">
-  <img src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
-       alt="Particle Therapy Facilities World Map" 
-       style="width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group  <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> data (September 2025).
+<figure style="text-align: center; width: 100%; margin: 2em 0;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 1px solid #ddd; border-radius: 8px;">
+    <iframe 
+      src="https://Louis-QiuyuLu.github.io/images/index.html" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 10px;">
+    Figure: Interactive global distribution of particle therapy facilities. Data source: 
+    <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> (September 2025). 
+    <i>(Tip: Use mouse to zoom and hover over points for details)</i>
   </figcaption>
 </figure>
 
