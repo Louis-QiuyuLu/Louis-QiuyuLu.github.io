@@ -82,7 +82,7 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
        alt="Particle Therapy Facilities World Map" 
        style="width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
-    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group  <a href="https://ptcog.online/particle-therapy-worldwide/" target="_blank">PTCOG</a> data (September 2025).
+    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group  <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> data (September 2025).
   </figcaption>
 </figure>
 
