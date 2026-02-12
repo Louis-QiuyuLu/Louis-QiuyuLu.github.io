@@ -80,7 +80,7 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
 
 <figure style="text-align: center;">
-  <iframe src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.pdf" 
+  <iframe src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
           width="80%" height="600px" 
           style="display: block; margin: 0 auto;" 
           frameborder="0">
@@ -103,7 +103,7 @@ The International Organization for Medical Physics (IOMP)-accredited educational
 | Sichuan University | MSc/PhD | Sichuan |
 | Tsinghua University | Master of Engineering | Beijing |
 | Nanjing Aeronautics and Astronautics University | BSc (4 yrs) | Nanjing |
-| Taishan Medical University | BSc (4 yrs) | Taian |
+| Taishan Medical University(山东第一医科大学) | BSc (4 yrs) | Taian |
 | Fudan University | MSc | Shanghai |
 | University of South China | BSc (4 yrs) / MSc (3 yrs) | Hengyang |
 | Changzhi Medical College | BSc (4 yrs) | Changzhi |
