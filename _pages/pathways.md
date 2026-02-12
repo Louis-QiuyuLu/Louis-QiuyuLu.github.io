@@ -90,6 +90,7 @@ In China, efforts are currently underway to establish a nationwide certification
   </figcaption>
 </figure>
 
+
 The International Organization for Medical Physics (IOMP)-accredited educational programs currently recognized in China include:
 
 | Institution | Program | Location |
