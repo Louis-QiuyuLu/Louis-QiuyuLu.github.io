@@ -80,15 +80,14 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
 
 <figure style="text-align: center;">
-  <iframe src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
-          width="80%" height="600px" 
-          style="display: block; margin: 0 auto;" 
-          frameborder="0">
-  </iframe>
+  <img src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
+       alt="Particle Therapy Facilities World Map" 
+       style="width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
     Figure: World Map of Particle Therapy Facilities.
   </figcaption>
 </figure>
+
 
 
 The International Organization for Medical Physics (IOMP)-accredited educational programs currently recognized in China include:
@@ -145,7 +144,7 @@ In the United States, the process is regulated by the **American Board of Radiol
 <figure style="text-align: center;">
   <img src="https://Louis-QiuyuLu.github.io/images/USA_PassingRate.jpeg" 
        alt="ABR Passing Rate" 
-       style="width: 60%; height: auto; display: block; margin: 0 auto;">
+       style="width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
     Figure: ABR Passing Rate from 
     <a href="https://doi.org/10.1016/j.ijrobp.2025.09.041" target="_blank">
