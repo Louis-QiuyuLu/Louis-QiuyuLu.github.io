@@ -84,7 +84,7 @@ In China, efforts are currently underway to establish a nationwide certification
        alt="Particle Therapy Facilities World Map" 
        style="width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
-    Figure: World Map of Particle Therapy Facilities.
+    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group (PTCOG) data (September 2025).
   </figcaption>
 </figure>
 
