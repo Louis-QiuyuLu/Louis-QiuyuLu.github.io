@@ -77,18 +77,16 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 
 ## China
 
-In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
-
 <figure style="text-align: center;">
   <img src="https://Louis-QiuyuLu.github.io/images/particle_facilities_worldmap.png" 
        alt="Particle Therapy Facilities World Map" 
        style="width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
-    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group (PTCOG) data (September 2025).
+    Figure: Global distribution of particle therapy facilities based on Particle Therapy Co-Operative Group  <a href="https://ptcog.online/particle-therapy-worldwide/" target="_blank">PTCOG</a> data (September 2025).
   </figcaption>
 </figure>
 
-
+In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
 
 The International Organization for Medical Physics (IOMP)-accredited educational programs currently recognized in China include:
 
