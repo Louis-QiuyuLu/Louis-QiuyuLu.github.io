@@ -77,20 +77,20 @@ In Japan, the certification process is regulated by the **Japanese Board for Med
 
 ## China
 
-<figure style="text-align: center; width: 100%; margin: 2em 0;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 1px solid #ddd; border-radius: 8px;">
-    <iframe 
-      src="https://Louis-QiuyuLu.github.io/images/index.html" 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-      allowfullscreen>
-    </iframe>
-  </div>
-  <figcaption style="font-size: 0.9em; color: #555; margin-top: 10px;">
+<<p align="center">
+  <iframe 
+    src="https://louis-qiuyulu.github.io/images/index.html" 
+    width="100%" 
+    height="600px" 
+    style="border:1px solid #ddd; border-radius: 8px;" 
+    allowfullscreen>
+  </iframe>
+  <br>
+  <font size="2" color="#555">
     Figure: Interactive global distribution of particle therapy facilities. Data source: 
-    <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> (September 2025). 
-    <i>(Tip: Use mouse to zoom and hover over points for details)</i>
-  </figcaption>
-</figure>
+    <a href="https://www.ptcog.site/index.php/facilities-in-operation-public" target="_blank">PTCOG</a> (September 2025).
+  </font>
+</p>
 
 In China, efforts are currently underway to establish a nationwide certification institute to evaluate both medical physics education programs and the professional certification of medical physicists. At present, this field remains in a phase that requires coordinated development and standardization. However, given the rapid expansion of newly constructed proton and heavy-ion therapy centers across the country, there is a significant gap in qualified personnel, presenting substantial opportunities for growth and career development in medical physics.
 
