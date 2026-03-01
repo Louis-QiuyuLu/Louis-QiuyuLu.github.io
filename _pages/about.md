@@ -42,7 +42,7 @@ My current research interests include medical imaging and radiation biology. In 
 
   
 # 🔬 Research
-- *Nov 2025 - *, **Centre for Medical Radiation Physics, University of Wollongong**, Wollongong, Australia  
+- *Nov 2025 - Feb 2026*, **Centre for Medical Radiation Physics, University of Wollongong**, Wollongong, Australia  
   *Summer research scholarship: LETd optimisation of proton therapy using FIONA treatment planning system at Paul Sherrer Institute*
   - Supervisor: Prof. Anatoly Rozenfeld, Dr. Thuy Linh Tran
 
