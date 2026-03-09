@@ -19,7 +19,7 @@ My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. I am now pursuing a mast
 
 My current research interests include medical imaging and radiation biology. In particular, I am interested in the development of deep learning–based image analysis methods and the investigation of radiobiological effects under modalities such as minibeam, microbeam, and FLASH. I also remain open to exploring interdisciplinary approaches that may incorporate quantum technologies (hyperpolarization MRI and etc.) in future PhD research.
 
-📄 **My CV:**  [PDF](./QiuyuLu-CV-2025.pdf)  (Last updated on 2025 Sep)
+📄 **My CV:**  [PDF](./QiuyuLu-CV-2026.pdf)  (Last updated on 2026 March)
 
 # 🔥 News
 - *Feb 2026*: Commenced the final semester of Master's studies.
