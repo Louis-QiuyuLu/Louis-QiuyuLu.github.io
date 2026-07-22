@@ -22,12 +22,13 @@ My current research interests include medical imaging and radiation biology. In 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2026.pdf)  (Last updated on 2026 March)
 
 # 🔥 News
+- *Jul 2026*: Graduated with Distinct.
 - *Feb 2026*: Commenced the final semester of Master's studies.
 - *Dec 2025*: Participate in summer research project under the supervision of Dr. Thuy Linh Tran.
 
 # 📖 Education
 - *Jul 2024 – June 2026*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited)
+  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), Graduated with Distinct(WAM: 90/100)
 
 - *Oct 2020 – Mar 2021*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
   *Master’s Program in Physics* (Withdrawn)
