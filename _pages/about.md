@@ -28,7 +28,7 @@ My current research interests include medical imaging and radiation biology. In 
 
 # 📖 Education
 - *Jul 2024 – June 2026*, **University of Wollongong, School of Physics**, Wollongong, Australia  
-  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), graduated with distinction(WAM: 90/100)
+  *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), graduated with distinction (WAM: 90/100)
 
 - *Oct 2020 – Mar 2021*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
   *Master’s Program in Physics* (withdrawal)
