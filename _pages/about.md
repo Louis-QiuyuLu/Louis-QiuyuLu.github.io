@@ -31,7 +31,7 @@ My current research interests include medical imaging and radiation biology. In 
   *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), graduated with distinction(WAM: 90/100)
 
 - *Oct 2020 – Mar 2021*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
-  *Master’s Program in Physics* (Withdrawal)
+  *Master’s Program in Physics* (withdrawal)
 
 - *Sep 2016 – Jun 2020*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
   *Bachelor of Science in Physics*, GPA: 3.50/4.00  
