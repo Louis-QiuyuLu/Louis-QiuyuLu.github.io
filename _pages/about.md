@@ -116,4 +116,4 @@ Interests
 - Chinese calligraphy: Liu Gongquan, Slender Gold Style, Zhao Mengfu, Wen Zhengming
 - Classical music: Bach, Mahler, Shostakovich
 - Coffee craft: Italian espresso coffee, Japanese hand-drip methods
-- Photography: Landscope, portait, street(Sony A7RV, 24-70mm F2.8 GM II, 85mm F1.4 GM II, Sigma 100-400mm F5-6.3 DG DN OS)
+- Photography: Landscope, portait, street(Sony A7RV, 85mm F1.4 GM II, Sigma 24-70mm F2.8, 100-400mm F5-6.3)
