@@ -97,7 +97,7 @@ My current research interests include particle therapy and radiation biology. In
 
 Programming
 - **C/C++**: scientific computing  
-- **Python**: deep learning architecture implementation (cGAN for medical image segmentation)  
+- **Python**: deep learning architecture implementation (cGAN and SAM for medical image segmentation)  
 - **Fortran**: high-performance modeling for numerical methods  
 - **R**: statistical analysis, data visualization  
 
