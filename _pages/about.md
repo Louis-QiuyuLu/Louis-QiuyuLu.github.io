@@ -17,16 +17,15 @@ redirect_from:
 # 👨‍🔬 About me
 My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
 
-My current research interests include medical imaging and radiation biology. In particular, I am interested in the the investigation of 2D microdosimetry and radiobiological effects under modalities such as minibeam, microbeam, and FLASH. I also remain open to exploring interdisciplinary approaches that may incorporate quantum technologies (hyperpolarization MRI and etc.) in future PhD research.
+My current research interests include particle therapy and radiation biology. In particular, I am interested in the the investigation of 2D microdosimetry and radiobiological effects under modalities such as minibeam, microbeam, and FLASH.
 
 📄 **My CV:**  [PDF](./QiuyuLu-CV-2026.pdf)  (Last updated on 2026 March)
 
-# 🔥 News
-- *Jul 2026*: Graduated with distinction.
-- *Feb 2026*: Commenced the final semester of Master's studies.
-- *Dec 2025*: Participate in summer research project under the supervision of Dr. Thuy Linh Tran.
-
 # 📖 Education
+- *Jul 2026 – *, **University of Wollongong, Centre for Medical Radiation Physics**, Wollongong, Australia  
+  *Philosophy Doctor in Phyiscs*, Project: 2D Microdosimetry Using ALPIDE and SOI Pixel Detectors for LETd-Guided Radiobiological Optimization in Particle Therapy.
+  - Supervisor: Prof. Anatoly Rozenfeld, Dr. Thuy Linh Tran
+  
 - *Jul 2024 – June 2026*, **University of Wollongong, School of Physics**, Wollongong, Australia  
   *Master of Science in Medical Radiation Physics* ([CAMPEP](https://www.campep.org/campeplstgrad.asp) & [ACPSEM](https://www.acpsem.org.au/Our-Work/Department-and-University-Accreditation) accredited), graduated with distinction (WAM: 90/100)
 
