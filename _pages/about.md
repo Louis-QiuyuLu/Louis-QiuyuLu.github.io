@@ -23,7 +23,7 @@ My current research interests include particle therapy and radiation biology. In
 
 # 📖 Education
 - *Jul 2026 – *, **University of Wollongong, Centre for Medical Radiation Physics**, Wollongong, Australia  
-  *Philosophy Doctor in Phyiscs*, Project: 2D Microdosimetry Using ALPIDE and SOI Pixel Detectors for LETd-Guided Radiobiological Optimization in Particle Therapy.
+  *Doctor of Philosophy in Phyiscs*, Project: 2D Microdosimetry Using ALPIDE and SOI Pixel Detectors for LETd-Guided Radiobiological Optimization in Particle Therapy.
   - Supervisor: Prof. Anatoly Rozenfeld, Dr. Thuy Linh Tran
   
 - *Jul 2024 – June 2026*, **University of Wollongong, School of Physics**, Wollongong, Australia  
