@@ -32,13 +32,11 @@ My current research interests include particle therapy and radiation biology. In
 - *Oct 2020 – Mar 2021*, **Ludwig-Maximilian-Universität München, Fakultät für Physik**, Munich, Germany  
   *Master’s Program in Physics* (withdrawal)
 
-- *Sep 2016 – Jun 2020*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
+- *Sep 2015 – Jun 2020*, **Huazhong University of Science and Technology, School of Physics**, Wuhan, China  
   *Bachelor of Science in Physics*, GPA: 3.50/4.00  
   - **Bachelor Thesis**: *Review on Relativistic Quantum Information*  
   - **Supervisor**: [Prof. Jianming Cai](https://scholar.google.com/citations?user=0t9hhLUAAAAJ&hl=en)
-
-- *Sep 2015 – Sep 2016*, **Huazhong University of Science and Technology, School of Optoelectronic Information**, Wuhan, China  
-  *Major in Optoelectronic Information Engineering* (transferred to Physics), GPA: 3.86/4.00
+  - Originally majored in Optoelectronic Information Engineering (GPA: 3.86/4.00), transferred to Physics in 2016.
 
   
 # 🔬 Research
