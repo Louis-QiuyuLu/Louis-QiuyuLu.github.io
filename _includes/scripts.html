@@ -1,9 +1,20 @@
 <script src="assets/js/main.min.js"></script>
 
-
-
 <script>
-  document.querySelectorAll('a').forEach(function(link) {
-    link.setAttribute('target', '_self');
-  });
+  // Keep in-site navigation in the same tab; open external references in a new
+  // tab so visitors never lose their place on the page.
+  (function () {
+    var host = window.location.hostname;
+    document.querySelectorAll('a[href]').forEach(function (link) {
+      var href = link.getAttribute('href') || '';
+      if (/^(mailto:|tel:)/i.test(href)) { return; }
+      var isExternal = link.hostname && link.hostname !== host;
+      if (isExternal) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      } else {
+        link.setAttribute('target', '_self');
+      }
+    });
+  })();
 </script>

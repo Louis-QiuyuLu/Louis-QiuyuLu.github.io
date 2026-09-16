@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-<div style="text-align: center;">
-    <div class="badge">The Literary Mind and the Carving of Dragons by Liu Xie《文心雕龍》劉勰.</div>
-    <img src="images/wenxindiaolong-shensi.png" alt="sym" style="width: 60%; display: block; margin: 0 auto;">
-</div>
+<figure class="hero-figure">
+    <img src="images/wenxindiaolong-shensi.png" alt="sym">
+    <figcaption>The Literary Mind and the Carving of Dragons by Liu Xie《文心雕龍》劉勰.</figcaption>
+</figure>
 
 # 👨‍🔬 About me
 My name is Qiuyu(/tʃoʊ.juː/), you can call me Louis. During my undergraduate studies, I participated in a research project related to quantum sensing and served as an undergraduate research assistant in the laboratory. After graduating, I shortly pursued a master's study in Germany for one semester, but had to discontinue due to the COVID-19 pandemic and visa issues. Subsequently, I worked as a mathematics and physics tutor. Currently, I have transitioned to the field of medical physics and aspire to further my studies and research in this area. 
