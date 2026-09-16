@@ -459,3 +459,142 @@ hr {
     color: $muted-text-color;
   }
 }
+
+/* ==========================================================================
+   AESTHETIC POLISH: rhythm, measure, borders, code, lists
+   ========================================================================== */
+
+/*
+   Anchor scroll offset for the sticky nav.
+   Replaces the fragile negative-margin (-10em) hack with scroll-margin-top.
+   ========================================================================== */
+
+h1, h2, h3, h4, .anchor {
+  scroll-margin-top: 5.5rem;
+}
+
+.page__content h1:before,
+.anchor:before {
+  content: none;
+}
+
+.page__content #about-me {
+  margin-top: 0;
+
+  &:before {
+    content: none;
+  }
+}
+
+/*
+   Comfortable reading measure: cap text width but let figures/tables/images
+   that live in their own block breathe full width.
+   ========================================================================== */
+
+.page__content {
+  > p,
+  > ul,
+  > ol,
+  > dl,
+  > h1,
+  > h2,
+  > h3,
+  > h4,
+  > h5,
+  > h6,
+  > blockquote,
+  > hr {
+    max-width: 48rem;
+  }
+
+  > ul,
+  > ol {
+    padding-left: 1.35em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  /* subtle accent list markers */
+  ul > li::marker {
+    color: $accent-color;
+  }
+
+  ol > li::marker {
+    color: $accent-color;
+    font-weight: 600;
+  }
+
+  strong {
+    color: mix(#000, $text-color, 8%);
+    font-weight: 600;
+  }
+}
+
+/*
+   Vertical rhythm between major sections
+   ========================================================================== */
+
+.page__content {
+  h1 + p,
+  h1 + ul,
+  h2 + p,
+  h2 + ul {
+    margin-top: 0.6em;
+  }
+
+  p {
+    margin: 0 0 0.9em;
+  }
+}
+
+/*
+   Code blocks
+   ========================================================================== */
+
+.page__content {
+  pre,
+  div.highlighter-rouge,
+  figure.highlight {
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    background: $code-background-color;
+  }
+
+  pre {
+    padding: 0.9em 1.1em;
+    font-size: 0.85rem;
+    line-height: 1.55;
+  }
+}
+
+/*
+   Sidebar avatar: center and constrain within the card
+   ========================================================================== */
+
+@include breakpoint($large) {
+  .author__avatar {
+    text-align: center;
+
+    img {
+      max-width: 150px;
+    }
+  }
+
+  .sidebar .author__name,
+  .author__bio {
+    text-align: center;
+  }
+}
+
+/*
+   Focus-visible accessibility ring in the accent color
+   ========================================================================== */
+
+a:focus-visible,
+.btn:focus-visible,
+button:focus-visible {
+  outline: 2px solid $accent-color;
+  outline-offset: 2px;
+}
