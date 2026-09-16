@@ -202,9 +202,9 @@ body {
 }
 
 .sidebar .author__name {
-  font-family: $header-font-family;
-  font-weight: 700;
-  letter-spacing: -0.01em;
+  font-family: $serif-display;
+  font-weight: 400;
+  letter-spacing: 0.005em;
   color: $text-color;
 }
 
@@ -278,17 +278,41 @@ body {
     border-radius: 10px;
   }
 
+  /* Figures: a clean centered column (override the theme's flex space-between
+     that pushed the image and caption out of alignment). */
   figure {
-    margin: 2em auto;
+    display: block;
+    margin: 2.25em auto;
+    text-align: center;
+
+    > a,
+    > img {
+      display: inline-block;
+      width: auto;
+      max-width: 100%;
+      margin: 0 auto;
+    }
 
     img {
       border: 1px solid $border-color;
+      border-radius: 10px;
       box-shadow: 0 6px 20px rgba(15, 40, 65, 0.08);
+    }
+
+    figcaption {
+      display: block;
+      width: 100%;
+      max-width: 42rem;
+      margin: 0.9em auto 0;
+      text-align: center;
     }
   }
 
   figcaption {
     font-family: $caption-font-family;
+    font-style: italic;
+    font-size: 0.9rem;
+    line-height: 1.5;
     color: $muted-text-color;
   }
 
@@ -333,8 +357,11 @@ blockquote {
 .page__content {
   table {
     display: block;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    max-width: 100%;
     overflow-x: auto;
-    width: 100%;
     margin: 1.5em 0;
     border: 1px solid $border-color;
     border-radius: 10px;
