@@ -1,0 +1,6 @@
+{% assign frame_title = page.title %}
+{% if frame_title == nil or frame_title == "" %}{% assign frame_title = site.title %}{% endif %}
+<div class="title-frame">
+  <span class="title-frame__tag">NERV</span>
+  <p class="title-frame__title">{{ frame_title }}</p>
+</div>
