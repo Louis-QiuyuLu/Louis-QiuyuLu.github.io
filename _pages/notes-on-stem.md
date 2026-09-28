@@ -34,7 +34,7 @@ The outline of theoretical foundations that follows is therefore only a personal
   - [*Hassani*](https://link.springer.com/book/10.1007/978-3-319-01195-0) is good for a general overview and advanced details, the explanations are clear, and the solved examples make it easier to see how the methods are applied.
 
 - **Computational methods**
-  - Monte Carlo simulation ([Geant4](https://geant4.web.cern.ch/), [FLUKA](http://www.fluka.org/fluka.php?)) for radiation transport, finite element methods(COMSOL, ANSYS) for solving EM field problems, and numerical techniques for dose calculation.
+  - Monte Carlo simulation ([Geant4](https://geant4.web.cern.ch/): general-purpose particle transport and complex detector modeling from first principles, [FLUKA](http://www.fluka.org/fluka.php?): high-energy physics, facility shielding, and radiation protection applications, [TOPAS](https://www.topasmc.org/): parameter-driven radiotherapy modeling, [FRED](https://www.fred-mc.org/Manual_3.76/index.html): GPU-accelerated beam calculation and quality assurance in charged particle therapy.) for radiation transport, finite element methods(COMSOL, ANSYS) for solving EM field problems, and numerical techniques for dose calculation.
   - For practical applications, open-source toolkits, examples and software manuals are often useful.
 
 - **Quantum mechanics**
