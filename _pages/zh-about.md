@@ -10,7 +10,7 @@ ref: about
 <span class='anchor' id='about-me'></span>
 <figure class="hero-figure">
     <img src="{{ site.baseurl }}/images/wenxindiaolong-shensi.png" alt="文心雕龙">
-    <figcaption>刘勰《文心雕龙》神思第二十六.</figcaption>
+    <figcaption>刘勰《文心雕龙》神思第二十六。</figcaption>
 </figure>
 
 # 👨‍🔬 关于我
