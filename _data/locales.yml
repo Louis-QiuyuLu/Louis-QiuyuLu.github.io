@@ -1,0 +1,15 @@
+en:
+  homepage: "Homepage"
+  back_to_home: "Back to Home"
+  lang_switch: "中文"
+  lang_switch_aria: "Switch to Chinese"
+  site_title: "Qiuyu Lu's medical physics page"
+  bio: "PhD candidate in medical physics. Passion for Chinese calligraphy, classical music and photography."
+
+zh:
+  homepage: "首页"
+  back_to_home: "返回首页"
+  lang_switch: "EN"
+  lang_switch_aria: "切换到英文"
+  site_title: "陆秋雨的医学物理主页"
+  bio: "医学物理博士研究生。热爱中国书法、古典音乐与摄影。"

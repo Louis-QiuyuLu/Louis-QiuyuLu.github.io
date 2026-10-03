@@ -1,6 +1,5 @@
 # main links links
 main:
-
   - title: "Notes on STEM"
     url: "/notes-on-stem"
 
@@ -9,3 +8,13 @@ main:
 
   - title: "Pathways"
     url: "/pathways"
+
+main_zh:
+  - title: "理工笔记"
+    url: "/zh/notes-on-stem"
+
+  - title: "医学笔记"
+    url: "/zh/notes-on-medicine"
+
+  - title: "职业路径"
+    url: "/zh/pathways"

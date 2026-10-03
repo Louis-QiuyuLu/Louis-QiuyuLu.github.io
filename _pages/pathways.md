@@ -3,6 +3,8 @@ permalink: /pathways/
 title: "Pathways"
 excerpt: "Miscellaneous thoughts and topics."
 author_profile: false
+lang: en
+ref: pathways
 ---
 
 <span class='anchor' id='others'></span>

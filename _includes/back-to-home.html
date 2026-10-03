@@ -1,5 +1,8 @@
+{% include lang-utils.html %}
+{% unless page.ref == "about" %}
 <div class="back-to-home">
-  <a href="{{ site.baseurl }}/" class="btn btn--primary">
-    <i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Back to Home
+  <a href="{{ site.baseurl }}{{ home_url }}" class="btn btn--primary">
+    <i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;{{ t.back_to_home }}
   </a>
 </div>
+{% endunless %}

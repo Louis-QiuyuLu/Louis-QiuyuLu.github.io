@@ -1,0 +1,24 @@
+{% comment %}
+  Resolve current page language and UI strings.
+  Expects page.lang (en|zh) and optional page.ref for cross-language pairing.
+{% endcomment %}
+{% assign page_lang = page.lang | default: site.lang | default: "en" %}
+{% assign t = site.data.locales[page_lang] %}
+{% if page_lang == "zh" %}
+  {% assign nav_links = site.data.navigation.main_zh %}
+  {% assign home_url = "/zh/" %}
+  {% assign other_lang = "en" %}
+{% else %}
+  {% assign nav_links = site.data.navigation.main %}
+  {% assign home_url = "/" %}
+  {% assign other_lang = "zh" %}
+{% endif %}
+{% assign lang_switch_url = home_url %}
+{% if page.ref %}
+  {% for p in site.pages %}
+    {% if p.ref == page.ref and p.lang == other_lang %}
+      {% assign lang_switch_url = p.url %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
