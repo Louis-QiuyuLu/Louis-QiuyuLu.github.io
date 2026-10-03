@@ -9,35 +9,35 @@ ref: notes-on-stem
 
 <span class='anchor' id='notes-on-stem'></span>
 
-本页试图为对医学物理感兴趣的物理、生物医学工程及相关 STEM 专业本科生提供一般性指引。
+本页旨在为对医学物理感兴趣的物理、生物医学工程及相关 STEM 专业本科生，提供一份通用的参考指引。
 
-与医学物理相关的数学与物理基础，与典型物理学本科课程仅部分重合。这一领域本身非常广阔，从辐射物理、核反应到成像与信号处理皆有涉及。兴趣不同，侧重点也会不同：例如，辐射相关路径中核物理与剂量学居核心地位；而成像方向则更依赖图像处理与数学工具（如 MRI 重建中的压缩感知）。就我所见——以及我自身有限的经验——早期保持较宽的视野，同时养成扎实的解题习惯，会很有帮助。
+医学物理所需的数理基础，与物理系本科课程仅有部分重合。这个领域跨度极大，涵盖辐射物理、核反应、医学成像乃至信号处理。方向不同，侧重也各有千秋：走辐射物理路线，核物理与剂量学是核心；偏向成像方向，则更依赖图像处理与数学工具（如 MRI 重建中的压缩感知）。依我浅见，加上自己有限的学习体会，在起步阶段拓宽视野、多做推导并养成扎实的解题习惯，往往大有裨益。
 
-正如朗道曾经建议的：
+正如朗道曾告诫年轻学生的：
 
-> “至于你关于理论物理学习的问题，我只能说：必须学习其**所有**主要分支，学习顺序则由其相互关系决定。至于方法，我只能强调：一切计算都必须亲自完成，而不能交给你所读书籍的作者。”  
+> “至于你关于理论物理学习的问题，我只能说：必须学完理论物理的**所有**主要分支，学习顺序则取决于它们之间的内在联系。至于方法，我必须强调：所有计算都得亲手推导，切不可留给你所读书籍的作者。”  
 > – *L. D. Landau，引自 E. M. Lifshitz, Am. J. Phys. 45, 415 (1977); doi: 10.1119/1.10828*
 
-如今或许还要补充：也不要把计算交给 ChatGPT 或 DeepSeek。费曼同样强调不同领域之间的内在联系：
+放在当下，或许还得补上一句：也不要把推导全部推给各类大语言模型。费曼同样十分看重学科之间的浑然一体：
 
-> “我们并不为这些跨领域的旁逸斜出而道歉，因为正如我们所强调的，学科划分只是人类的便利，而非自然之事。自然并不关心我们的分界，许多有趣的现象恰恰跨越了这些鸿沟。”  
+> “我们无需为跨领域的旁逸斜出而致歉。正如我们常说的，学科划分不过是人为图个方便，大自然本身并无界限。自然并不在乎我们划定的篱笆，许多耐人寻味的现象恰恰出现在学科的交界处。”  
 > – *R. P. Feynman, The Feynman Lectures on Physics, Vol. I, Ch. 35*
 
-正如庄子所讲开凿混沌七窍的故事（[浑沌](https://en.wikipedia.org/wiki/Hundun)），自然界本身是统一的。物理学作为对自然的描述，也反映这种整体性；若被人为割裂成彼此孤立的科目，便难以真正理解。
+正如庄子所述[浑沌](https://en.wikipedia.org/wiki/Hundun)凿七窍的故事，自然本是完整的统一体。物理学用以描摹自然，自当映照出这种整体性；若人为将其割裂为互不相干的条块，反倒难以得其精髓。
 
-面对医学物理这样一门广袤且历史层层叠叠的学科，感到不知所措是自然的——仿佛只见树木而不见森林。在我自己的学习中，进展往往更像涌现论（Emergentism）而非严格还原论：通过足够多的例子、计算与物理图像，更大的结构会逐渐显现。偶尔，这一过程还会带来我喜欢称作个人 [**Aura**](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) 的瞬间——经由思考与计算，短暂瞥见自然底层秩序的微光。
+面对医学物理这门枝繁叶茂、沉淀深厚的学科，初学者容易有“只见树木、不见森林”的迷茫感。就我自身的体会而言，掌握这门学科的过程更贴近“涌现”，而非机械的还原：当你积累了足够多的推导、算例与物理图景，整体的脉络自然会水落石出。偶尔，这种推演还会带来所谓的灵光（[**Aura**](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction)）——在纸笔推导之间，得以一瞥自然底层运行律则的微光。
 
-因此，下文关于理论基础的提纲只是个人草图，受我自身偏见与经验塑造。它意在作为试探性指南，读者可以在自己的学习旅程中加以改编、扩展乃至质疑。我希望它能为探索医学与工程应用背后的物理提供一个起点，而不自称权威或穷尽。
+因此，下文整理的理论基础只是我个人的读书小结，难免带有些许个人偏好与经验局限。它仅作为抛砖引玉的参考，读者尽可在自己的求学途中取舍、补充甚至质疑。倘若它能为大家探索医学与工程背后的物理世界提供一个切入点，便达到了初衷。
 
-# 本科阶段常见基础
+# 本科基础课程
 
-- **物理中的数学方法**
-  - 常微分方程与偏微分方程、复变围道积分、格林函数与变分法。勒让德函数、贝塞尔函数与球谐函数等特殊函数经常出现。群论与李代数对进阶理论也很有帮助。
-  - [*Hassani*](https://link.springer.com/book/10.1007/978-3-319-01195-0) 适合总览与深入细节，讲解清晰，例题有助于看清方法如何应用。
+- **数学物理方法**
+  - 常微分方程与偏微分方程、复变围道积分、格林函数与变分法。勒让德多项式、贝塞尔函数及球谐函数等特殊函数经常登场。进阶理论中，群论与李代数同样不可或缺。
+  - [*Hassani*](https://link.springer.com/book/10.1007/978-3-319-01195-0) 兼顾宏观脉络与细部推演，叙述透彻，例题很适合用来摸清具体方法的运用。
 
-- **计算方法**
-  - 用于辐射输运的蒙特卡罗模拟（[Geant4](https://geant4.web.cern.ch/)：通用粒子输运与复杂探测器从头建模；[FLUKA](http://www.fluka.org/fluka.php?)：高能物理、设施屏蔽与辐射防护；[TOPAS](https://www.topasmc.org/)：参数驱动的放疗建模；[FRED](https://www.fred-mc.org/Manual_3.76/index.html)：带电粒子治疗中的 GPU 加速束流计算与质量保证），用于求解电磁场问题的有限元方法（COMSOL、ANSYS），以及剂量计算的数值技术。
-  - 实际应用中，开源工具包、示例与软件手册往往很有用。
+- **计算物理与数值模拟**
+  - 辐射输运蒙特卡罗模拟（[Geant4](https://geant4.web.cern.ch/)：通用粒子输运与复杂探测器建模；[FLUKA](http://www.fluka.org/fluka.php?)：高能物理、屏蔽设计与辐射防护；[TOPAS](https://www.topasmc.org/)：参数化放疗建模；[FRED](https://www.fred-mc.org/Manual_3.76/index.html)：用于带电粒子治疗的 GPU 束流加速计算与质控）、有限元方法求解电磁场（COMSOL、ANSYS），以及剂量计算的常用数值算法。
+  - 实践中，熟读开源工具包、代码示例与官方手册往往能事半功倍。
 
 - **量子力学**
 
@@ -45,51 +45,51 @@ ref: notes-on-stem
     <img src="{{ site.baseurl }}/images/QM_DND.jpg" alt="量子力学教材对照。" width="50%">
   </p>
 
-  - 学到二次量子化（所谓高等量子力学）通常足够。医学物理中的多数问题涉及原子尺度精细结构效应，如自旋—轨道耦合与相对论修正。除非计算精确反应截面、放疗中的次级电子产生，或正电子湮灭过程中的高阶修正，否则不必深入量子场论。
-  - [*Griffiths*](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E#overview) 与 [*Sakurai*](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC#overview) 对初学者都较易入手。Griffiths 可读性强，善于通过清晰例子建立直觉；Sakurai 更形式、更抽象，但为理解现代量子力学提供了坚实基础。细节可参考 [*Cohen-Tannoudji*](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713)，它对形式体系与应用都更深入，例题对真正掌握方法很有帮助。
+  - 学到二次量子化（高等量子力学阶段）一般已足够应对多数问题。医学物理主要关注自旋—轨道耦合、相对论修正等原子尺度的精细结构效应。除非要精确计算核反应截面、放疗中的次级电子产生，抑或正电子湮灭的高阶修正，否则通常无须深涉量子场论。
+  - [*Griffiths*](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E#overview) 与 [*Sakurai*](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC#overview) 都是极好的入门读物。Griffiths 读来通俗生动，善用直观算例构建图像；Sakurai 形式感更强、偏重抽象代数框架，能为现代量子理论打下坚实底子。若想深究推导细节，可参考 [*Cohen-Tannoudji*](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713)，其体系严整、应用广泛，书中的练习题非常锻炼实战功夫。
 
 - **电动力学**
-  - 电磁场计算、相对论带电粒子动力学、电磁波在生物组织与探测器中的传播。
-  - 可从 [*Griffiths*](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview) 开始，它可读性强，对基本概念有清晰解释与大量例子，适合建立直觉并熟悉物理中的矢量微积分。随后可进阶到 [*Jackson*](https://www.wiley.com/en-au/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) 与 [*Zangwill*](https://www.cambridge.org/highereducation/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9#overview)。Jackson 作为研究生标准教材更形式、更数学严格，有助于深化理论理解并挑战难题；但其第 13 章关于带电粒子碰撞（与医学物理相关）结构不够理想，部分计算也不尽严谨。Zangwill 提供更现代的视角，涵盖 Jackson 未涉及的内容，解释通常更适合自学。
+  - 电磁场解析、相对论带电粒子动力学、电磁波在生物组织与探测介质中的传播规律。
+  - 可以从 [*Griffiths*](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview) 入手，文字流畅，概念剖析到位，且附带大量矢量微积分示例，极易上手并建立直觉。进阶阶段推荐 [*Jackson*](https://www.wiley.com/en-au/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) 和 [*Zangwill*](https://www.cambridge.org/highereducation/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9#overview)。Jackson 作为经典的研究生教材，推导严谨、数学深度足，很适合磨炼硬核理论功底；但其第 13 章涉及带电粒子碰撞（与医学物理直接相关）的脉络略显晦涩，个别推算不够爽利。相比之下，Zangwill 视角更现代，补足了不少前书未谈及的内容，整体更利于自学。
 
-# 超越本科
+# 专业与进阶方向
 
 - **核物理**
-  - 基本核模型（液滴模型、壳模型与集体模型），放射性核素衰变模式（$α, β^+, β^−, γ$），以及核反应截面计算。
-  - [*Martin*](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) 与 [*Krane*](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) 都是扎实的入门选择。Martin 较为易读，覆盖面广；Krane 稍更细致，对理解核结构与反应有帮助的例子。[*Tina Potter 的讲义*](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html) 适合快速总览与直觉理解；对散射理论更形式、更深入的处理，1952 年初版的 [*Blatt & Weisskopf*](https://link.springer.com/book/10.1007/978-1-4612-9959-2) 仍是经典参考，但数学较重，最好在熟悉基础后再读。
+  - 原子核基本模型（液滴模型、壳层模型与集体模型）、核素衰变模式（$α, β^+, β^−, γ$），以及核反应截面计算。
+  - [*Martin*](https://www.wiley.com/en-us/Nuclear+and+Particle+Physics%3A+An+Introduction%2C+3rd+Edition-p-9781119344612) 与 [*Krane*](https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533) 皆为经典的入门教本。Martin 叙述浅白、知识面宽；Krane 剖析更细致，配有大量辅助理解核结构与核反应的实例。若想迅速搭建直观概念，不妨参阅 [*Tina Potter 讲义*](https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/mainpage.html)；若想深究散射理论的形式体系，1952 年首版的 [*Blatt & Weisskopf*](https://link.springer.com/book/10.1007/978-1-4612-9959-2) 依然是权威专著，但其数学门槛较高，建议打牢基础后再作精读。
 
 - **辐射物理**
-  - 光子、中子与带电粒子与物质的相互作用。
-  - [*Turner*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) 与 [*Hooshang Nikjoo*](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) 可读性较好，是原理入门的好选择。[*Radiation Physics for Medical Physicists*](https://link.springer.com/book/10.1007/978-3-319-25382-4) 非常实用，提供将理论与临床实践相连的情境与例子。
+  - 光子、中子及带电粒子与物质的相互作用。
+  - [*Turner*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) 和 [*Hooshang Nikjoo*](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) 条理分明，通俗晓畅，是掌握相互作用机理的优质教材。[*Radiation Physics for Medical Physicists*](https://link.springer.com/book/10.1007/978-3-319-25382-4) 则重在实用，书中结合了大量临床场景与算例，方便将理论直接对接医院实践。
 
 - **辐射探测**
-  - 辐射探测原理，包括气体探测器、闪烁体与半导体探测器。能量分辨率、效率、死时间与统计不确定度等概念至关重要。脉冲处理与谱学方法对实际应用也很重要。
-  - [*Knoll*](https://www.wiley.com/en-ae/Radiation+Detection+and+Measurement%2C+4th+Edition-p-9780470131480) 是经典且全面的参考，细节充分、数学严格，适合在掌握基础后深入查阅。[*Attix*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617135) 更侧重剂量学与实践方面，对初学者更易读。[*Fundamentals of Ionizing Radiation Dosimetry*](https://www.wiley.com/en-us/Fundamentals+of+Ionizing+Radiation+Dosimetry-p-9783527409211) 有助于把探测器物理与剂量学计算联系起来，在理论与医学应用之间架桥。
+  - 辐射探测机理，囊括气体探测器、闪烁体与半导体探测器。重点掌握能量分辨率、探测效率、死时间及统计涨落等核心概念，同时结合实际工程，熟悉脉冲成形与能谱分析方法。
+  - [*Knoll*](https://www.wiley.com/en-ae/Radiation+Detection+and+Measurement%2C+4th+Edition-p-9780470131480) 堪称案头必备宝典，内容详尽、推演扎实，适合夯实基础后当作工具书随查随用。[*Attix*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617135) 偏重实用剂量学，读起来更轻松。[*Fundamentals of Ionizing Radiation Dosimetry*](https://www.wiley.com/en-us/Fundamentals+of+Ionizing+Radiation+Dosimetry-p-9783527409211) 则把探测器物理同剂量算法紧密编织在一起，架起了从基础物理通往临床应用的桥梁。
 
 - **放射治疗物理**
-  - 调强放射治疗（IMRT）、容积调强弧形治疗（VMAT）、图像引导放射治疗（IGRT）、立体定向体部放射治疗（SBRT）、硼中子俘获治疗（BNCT）、质子治疗与重离子治疗。
-  - [*The Physics of Radiotherapy X-Rays and Electrons 3rd Edition*](https://medicalphysics.org/SimpleCMS.php?content=bookpage.php&isbn=9781951134105) 与 [*Khan’s The Physics of Radiation Therapy*](https://shop.lww.com/Khan-s-The-Physics-of-Radiation-Therapy/p/9781496397522?srsltid=AfmBOopw7KJsy68Iq6t5fNmViGW7WDQIXC6WdX8PdLDcxhLL__zHAxzC) 提供全面概览。
-  - AAPM Task Group 报告与 ICRU 报告是重要的临床参考。
+  - 调强放疗（IMRT）、容积旋转调强放疗（VMAT）、图像引导放疗（IGRT）、立体定向体部放疗（SBRT）、硼中子俘获治疗（BNCT）、质子与重离子治疗。
+  - [*The Physics of Radiotherapy X-Rays and Electrons (3rd Edition)*](https://medicalphysics.org/SimpleCMS.php?content=bookpage.php&isbn=9781951134105) 与 [*Khan’s The Physics of Radiation Therapy*](https://shop.lww.com/Khan-s-The-Physics-of-Radiation-Therapy/p/9781496397522?srsltid=AfmBOopw7KJsy68Iq6t5fNmViGW7WDQIXC6WdX8PdLDcxhLL__zHAxzC) 是临床放疗物理的必备全景参考书。
+  - 此外，AAPM Task Group 与 ICRU 系列报告是开展临床质控与剂量计算的行业准则，务必经常查阅。
 
 - **医学影像物理**
-  - 计算机断层成像（CT）、磁共振成像（MRI）、正电子发射断层—计算机断层成像（PET-CT）、超声成像及其他相关成像模态。
-  - [*The Essential Physics of Medical Imaging, 3rd Edition*](https://pubmed.ncbi.nlm.nih.gov/28524933/)、[*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) 与 [*Medical Imaging Physics, 4th Edition*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135)。
+  - 计算机断层成像（CT）、磁共振成像（MRI）、正电子发射计算机断层显像（PET-CT）、超声成像及各类多模态影像。
+  - 核心读物推荐：[*The Essential Physics of Medical Imaging (3rd Edition)*](https://pubmed.ncbi.nlm.nih.gov/28524933/)、[*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) 以及 [*Medical Imaging Physics (4th Edition)*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135)。
 
 - **放射生物学与辐射防护**
-  - 涵盖放射生物学基础，包括细胞存活的线性—二次（LQ）模型、旁观者效应与远隔效应（abscopal effect）。辐射防护主题包括 ALARA 原则、剂量限值与屏蔽计算。
-  - [*Radiobiology for the Radiologist 8th Edition*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui)。
+  - 放射生物学核心内容包含细胞存活线性二次模型（LQ 模型）、旁效应（bystander effect）与远隔效应（abscopal effect）。辐射防护则围绕 ALARA 原则、剂量限值与屏蔽厚度设计展开。
+  - 首选参考教材为 [*Radiobiology for the Radiologist (8th Edition)*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui)。
 
-# 速查表、笔记与摘要（欢迎反馈与勘误！）
-- **电磁学：**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)
-- **核物理：**  [PDF](https://louis-qiuyulu.github.io/summary-of-NP.pdf) 
-- **辐射物理：**  [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
-- **医学影像：**  [PDF](https://louis-qiuyulu.github.io/summary-of-MI.pdf)
-- **放射治疗物理：**  [PDF](https://louis-qiuyulu.github.io/summary-of-RT.pdf)
-- **辐射防护与放射生物学：**  [PDF](https://louis-qiuyulu.github.io/summary_of_RB.pdf)
+# 速查手册、笔记与讲义（恳请批评斧正！）
+- **电磁学：** [PDF](https://louis-qiuyulu.github.io/CheatSheet-EM.pdf)
+- **核物理：** [PDF](https://louis-qiuyulu.github.io/summary-of-NP.pdf) 
+- **辐射物理：** [PDF](https://louis-qiuyulu.github.io/CheatSheet-RP.pdf)
+- **医学影像：** [PDF](https://louis-qiuyulu.github.io/summary-of-MI.pdf)
+- **放射治疗物理：** [PDF](https://louis-qiuyulu.github.io/summary-of-RT.pdf)
+- **辐射防护与放射生物学：** [PDF](https://louis-qiuyulu.github.io/summary_of_RB.pdf)
 
 ---
 
 ## 许可协议  
-本笔记采用 [知识共享署名—非商业性使用—相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。  
+本页面笔记采用 [知识共享署名—非商业性使用—相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。  
 
 [![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
