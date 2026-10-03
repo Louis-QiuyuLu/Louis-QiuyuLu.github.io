@@ -1,8 +1,16 @@
+{% include lang-utils.html %}
+{% if page_lang == "zh" %}
+  {% assign footer_name = site.author.name_zh | default: site.author.name %}
+  {% assign footer_location = site.author.location_zh | default: site.author.location %}
+{% else %}
+  {% assign footer_name = site.author.name %}
+  {% assign footer_location = site.author.location %}
+{% endif %}
 <footer class="site-footer">
   <div class="site-footer__inner">
-    <p class="site-footer__name">{{ site.author.name }}</p>
+    <p class="site-footer__name">{{ footer_name }}</p>
     <p class="site-footer__meta">
-      &copy; {{ site.time | date: "%Y" }}{% if site.author.location %} &middot; {{ site.author.location }}{% endif %}
+      &copy; {{ site.time | date: "%Y" }}{% if footer_location %} &middot; {{ footer_location }}{% endif %}
     </p>
   </div>
 </footer>

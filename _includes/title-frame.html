@@ -1,5 +1,12 @@
+{% include lang-utils.html %}
 {% assign frame_title = page.title %}
-{% if frame_title == nil or frame_title == "" %}{% assign frame_title = site.title %}{% endif %}
+{% if frame_title == nil or frame_title == "" %}
+  {% if page_lang == "zh" %}
+    {% assign frame_title = site.title_zh | default: t.site_title %}
+  {% else %}
+    {% assign frame_title = site.title %}
+  {% endif %}
+{% endif %}
 <div class="title-frame">
   <span class="title-frame__tag">Nubilum Halcyonii Pavilion 停雲閣</span>
   <p class="title-frame__title">{{ frame_title }}</p>

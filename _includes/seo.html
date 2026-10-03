@@ -1,4 +1,5 @@
 <!-- begin SEO -->
+{% include lang-utils.html %}
 {% if site.url %}
   {% assign seo_url = site.url %}
 {% endif %}
@@ -8,7 +9,20 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+{% if page_lang == "zh" %}
+  {% assign seo_site_title = site.title_zh | default: t.site_title %}
+  {% assign seo_og_locale = "zh_CN" %}
+{% else %}
+  {% assign seo_site_title = site.title %}
+  {% assign seo_og_locale = "en" %}
+{% endif %}
+{% if page.title and page.title != "" %}
+  {% assign seo_page_title = page.title | append: " · " | append: seo_site_title %}
+{% else %}
+  {% assign seo_page_title = seo_site_title %}
+{% endif %}
+
+<title>{{ seo_page_title }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -29,9 +43,22 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="en">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:locale" content="{{ seo_og_locale }}">
+<meta property="og:site_name" content="{{ seo_site_title }}">
+<meta property="og:title" content="{{ seo_page_title }}">
+{% if page.ref %}
+  {% for p in site.pages %}
+    {% if p.ref == page.ref %}
+      {% if seo_url %}
+        <link rel="alternate" hreflang="{{ p.lang | default: 'en' }}" href="{{ p.url | prepend: seo_url }}">
+      {% else %}
+        <link rel="alternate" hreflang="{{ p.lang | default: 'en' }}" href="{{ p.url }}">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">

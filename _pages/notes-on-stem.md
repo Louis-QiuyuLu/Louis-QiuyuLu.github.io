@@ -3,6 +3,8 @@ permalink: /notes-on-stem/
 title: "Notes on STEM"
 excerpt: "This page contains notes related to Science, Technology, Engineering, and Mathematics (STEM)."
 author_profile: false
+lang: en
+ref: notes-on-stem
 ---
 
 <span class='anchor' id='notes-on-stem'></span>

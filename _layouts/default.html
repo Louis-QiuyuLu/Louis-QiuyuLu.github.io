@@ -2,14 +2,15 @@
 layout: compress
 ---
 
+{% include lang-utils.html %}
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ page_lang }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="lang-{{ page_lang }}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -31,8 +32,6 @@ layout: compress
 
     {% include footer.html %}
 
-<script src="{{ site.baseurl }}/assets/js/main.js"></script>
-    
     {% include scripts.html %}
 
   </body>
