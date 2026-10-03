@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiuyu Lu's medical physics page"
-title_zh                 : "陆秋雨的医学物理主页"
+title_zh                 : "陆秋宇的医学物理主页"
 description              : ""
 repository               : "Louis-QiuyuLu/Louis-QiuyuLu.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,10 +25,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiuyu (Louis) Lu"
-  name_zh          : "陆秋雨"
+  name_zh          : "陆秋宇"
   avatar           : "images/Luqiuyu-yin.png"
   bio              : "PhD candidate in medical physics. Passion for Chinese calligraphy, classical music and photography."
-  bio_zh           : "医学物理博士研究生。热爱中国书法、古典音乐与摄影。"
+  bio_zh           : "医学物理博士研究生。中国书法、古典音乐与摄影爱好者。"
   location         : "Wollongong"
   location_zh      : "卧龙岗"
   employer         :
