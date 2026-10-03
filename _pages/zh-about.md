@@ -18,7 +18,7 @@ ref: about
 
 我当前的研究兴趣主要在粒子治疗与放射生物学。尤其关注 minibeam、microbeam 与 FLASH 等技术下的二维微剂量学（2D microdosimetry）及其放射生物效应。
 
-📄 **个人简历：** [PDF]({{ site.baseurl }}/QiuyuLu-CV-2026.pdf) （最近更新：2026 年 3 月）
+📄 **个人简历：** [PDF](./QiuyuLu-CV-2026.pdf)  （最近更新：2026 年 3 月）
 
 # 📖 教育经历
 - *2026 年 7 月 – 至今*，**卧龙岗大学医学辐射物理中心（Centre for Medical Radiation Physics）**，澳大利亚卧龙岗  
