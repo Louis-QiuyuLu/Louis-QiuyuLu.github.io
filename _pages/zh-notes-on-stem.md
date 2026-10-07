@@ -42,7 +42,7 @@ ref: notes-on-stem
 - **量子力学**
 
   <p align="center">
-    <img src="{{ site.baseurl }}/images/QM_DND.jpg" alt="量子力学教材对照。" width="50%">
+    <img src="{{ site.baseurl }}/images/QM_DND.jpg" alt="量子力学教材九宫格，制于笔者本科初学量子力学时。" width="50%">
   </p>
 
   - 学到二次量子化（高等量子力学阶段）一般已足够应对多数问题。医学物理主要关注自旋—轨道耦合、相对论修正等原子尺度的精细结构效应。除非要精确计算核反应截面、放疗中的次级电子产生，抑或正电子湮灭的高阶修正，否则通常无须深涉量子场论。
