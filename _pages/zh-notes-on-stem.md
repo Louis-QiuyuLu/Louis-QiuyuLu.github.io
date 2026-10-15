@@ -76,7 +76,7 @@ ref: notes-on-stem
   - 核心读物推荐：[*The Essential Physics of Medical Imaging (3rd Edition)*](https://pubmed.ncbi.nlm.nih.gov/28524933/)、[*Fundamental Mathematics and Physics of Medical Imaging*](https://doi.org/10.1201/9781315368214) 以及 [*Medical Imaging Physics (4th Edition)*](https://www.wiley.com/en-us/Medical+Imaging+Physics%2C+4th+Edition-p-9780471461135)。
 
 - **放射生物学与辐射防护**
-  - 放射生物学核心内容包含细胞存活线性二次模型（LQ 模型）、旁效应（bystander effect）与远隔效应（abscopal effect）。辐射防护则围绕 ALARA 原则、剂量限值与屏蔽厚度设计展开。
+  - 放射生物学核心内容包含细胞存活线性二次模型（LQ 模型）、旁观效应（bystander effect）与远隔效应（abscopal effect）。辐射防护则围绕 ALARA 原则、剂量限值与屏蔽厚度设计展开。
   - 首选参考教材为 [*Radiobiology for the Radiologist (8th Edition)*](https://shop.lww.com/Radiobiology-for-the-Radiologist/p/9781496335418?srsltid=AfmBOoo02iTJHtt_TgiT5JeADx5hU9Ajv1sa-huxtqe2FC83wHVL05ui)。
 
 # 速查手册、笔记与讲义（恳请批评斧正！）
