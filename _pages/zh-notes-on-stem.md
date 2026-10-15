@@ -63,7 +63,7 @@ ref: notes-on-stem
   - [*Turner*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527616978) 和 [*Hooshang Nikjoo*](https://www.routledge.com/Interaction-of-Radiation-with-Matter/Nikjoo-Uehara-Emfietzoglou/p/book/9780367866020?srsltid=AfmBOor8xnXQC1WBWkicRN74gtG5SBA1yQae0BHI2zQaCsMWPPs2T-Ny) 条理分明，通俗晓畅，是掌握相互作用机理的优质教材。[*Radiation Physics for Medical Physicists*](https://link.springer.com/book/10.1007/978-3-319-25382-4) 则重在实用，书中结合了大量临床场景与算例，方便将理论直接对接医院实践。
 
 - **辐射探测**
-  - 辐射探测机理，囊括气体探测器、闪烁体与半导体探测器。重点掌握能量分辨率、探测效率、死时间及统计涨落等核心概念，同时结合实际工程，熟悉脉冲成形与能谱分析方法。
+  - 辐射探测机理，囊括气体探测器、闪烁体与半导体探测器。重点掌握能量分辨率、探测效率、死区时间及统计涨落等核心概念，同时结合实际工程，熟悉脉冲成形与能谱分析方法。
   - [*Knoll*](https://www.wiley.com/en-ae/Radiation+Detection+and+Measurement%2C+4th+Edition-p-9780470131480) 堪称案头必备宝典，内容详尽、推演扎实，适合夯实基础后当作工具书随查随用。[*Attix*](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617135) 偏重实用剂量学，读起来更轻松。[*Fundamentals of Ionizing Radiation Dosimetry*](https://www.wiley.com/en-us/Fundamentals+of+Ionizing+Radiation+Dosimetry-p-9783527409211) 则把探测器物理同剂量算法紧密编织在一起，架起了从基础物理通往临床应用的桥梁。
 
 - **放射治疗物理**
